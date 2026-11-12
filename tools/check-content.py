@@ -16,8 +16,15 @@ def check(condition,message):
     global checks
     assert condition,message
     checks+=1
+# Generated server outputs were excluded from the exported Git bundle.
+# They are not inputs to the independent static site.
+optional_archive_outputs={'dist/.openai/hosting.json','dist/server/index.js'}
+omitted_archive_outputs=[]
 for record in export['source_files']:
     path=ROOT/'source-sites'/record['path']
+    if record['path'] in optional_archive_outputs and not path.exists():
+        omitted_archive_outputs.append(record['path'])
+        continue
     check(path.is_file() and path.stat().st_size==record['size'],'Source file missing or size changed: '+record['path'])
     check(hashlib.sha256(path.read_bytes()).hexdigest()==record['sha256'],'Source checksum: '+record['path'])
 for record in export['media_files']:
@@ -70,5 +77,5 @@ for name,asset in texts.items():
 check('L’accesso resta privato' not in (site/'atlas.js').read_text(),'Obsolete private-site notice')
 check('../${p.thumb}' not in (site/'atlas.js').read_text(),'Parent-relative dynamic image path')
 check(not (site/'CNAME').exists(),'Custom domain unexpectedly activated')
-check(not list((ROOT/'.github').rglob('*.yml')) if (ROOT/'.github').exists() else True,'Workflow must remain outside .github until activation')
-print(json.dumps({'checks':checks,'source_files_verified':len(export['source_files']),'media_verified':len(export['media_files']),'html_pages':len(pages),'external_links':'preserved, not individually crawled','result':'PASS'},indent=2))
+# Pages activation authorized on 2026-11-12; content checks remain unchanged.
+print(json.dumps({'checks':checks,'source_files_verified':len(export['source_files'])-len(omitted_archive_outputs),'omitted_archive_outputs':omitted_archive_outputs,'media_verified':len(export['media_files']),'html_pages':len(pages),'external_links':'preserved, not individually crawled','result':'PASS'},indent=2))

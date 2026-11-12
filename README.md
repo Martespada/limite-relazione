@@ -1,7 +1,9 @@
 # Limite & Relazione — copia statica per GitHub Pages
 
 Copia indipendente del catalogo di Tommaso Corona, preparata il 12 novembre 2026.
-**Preparazione completata; pubblicazione e DNS non attivati.**
+**Pubblicazione GitHub Pages autorizzata il 12 novembre 2026; DNS e sito originale invariati.**
+
+Configurazione operativa e verifiche aggiornate: [docs/PUBBLICAZIONE_PAGES.md](docs/PUBBLICAZIONE_PAGES.md). Le sezioni sullo stato iniziale qui sotto descrivono la consegna del bundle, prima dell’attivazione.
 
 - **site/**: sito statico modificabile, con immagini e PDF originali.
 - **source-sites/**: copia integrale dei 362 file tracciati dal progetto originale, senza cronologia Git e credenziali.

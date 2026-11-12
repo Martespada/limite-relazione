@@ -1,0 +1,1572 @@
+[
+  {
+    "path": ".nojekyll",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "404.html",
+    "bytes": 534,
+    "sha256": "26ad22bb1249aea00b5994ca3b7dbb88dccddcdff7e305b6368db9f68e7d3ef4"
+  },
+  {
+    "path": "anteprima/articoli/archetipi-e-individuazione.html",
+    "bytes": 342,
+    "sha256": "b8519de436fd2e5d70601eb44e0e64fdf298e8ac0433e0e3e612b9dce92415b0"
+  },
+  {
+    "path": "anteprima/articoli/dal-what-if-al-what-is.html",
+    "bytes": 334,
+    "sha256": "a5cded6d25ba8d093ed82377eae8014818a79f00e9a6b4986237ad1d181ea1f3"
+  },
+  {
+    "path": "anteprima/articoli/l-ombra-e-la-voce.html",
+    "bytes": 324,
+    "sha256": "1915dba52df0a15966f4ea9334726d3e479cab6efa39353cc18c4c031d3e334e"
+  },
+  {
+    "path": "anteprima/articoli/la-soglia-della-radicalizzazione.html",
+    "bytes": 354,
+    "sha256": "54f675547aee949fe78f3568073947f6a42dbc8c7af2f40847ecefce356fed47"
+  },
+  {
+    "path": "anteprima/articoli/la-zebra-il-leone-e-lerba.html",
+    "bytes": 340,
+    "sha256": "dc807f75c033a369168feeec2e3d571ecde899f87fcb0067cb6e40f16632a589"
+  },
+  {
+    "path": "anteprima/articoli/lo-slogun-batte-largomento.html",
+    "bytes": 342,
+    "sha256": "e6a4cb73865d6df0d5457a2f9348911cf75a0fbfaa646cd472121c17efdf4eaf"
+  },
+  {
+    "path": "anteprima/articoli.html",
+    "bytes": 282,
+    "sha256": "1fff5a41585f7639a9d9ed2a84df3835aa9126909e44659219530fc1a7f82821"
+  },
+  {
+    "path": "anteprima/atlante.html",
+    "bytes": 280,
+    "sha256": "8749399986270b43d7c5fafa86e5eb20671dc0991faf52bc9983a8c590c86cc0"
+  },
+  {
+    "path": "anteprima/autore.html",
+    "bytes": 278,
+    "sha256": "c9c8e1769cdb72d79dc20f063169f6760d229699f7805d8531f70e0b12b98a3d"
+  },
+  {
+    "path": "anteprima/index.html",
+    "bytes": 276,
+    "sha256": "5af8c72a199e2ed6aca0fe4718761e1c980422c968cac2d53dd43c1940de2500"
+  },
+  {
+    "path": "anteprima/saggi.html",
+    "bytes": 276,
+    "sha256": "3973c76a957e7027d65f96aa85ccf0f24aa648055b3f9c840834f0124f544121"
+  },
+  {
+    "path": "app.js",
+    "bytes": 27558,
+    "sha256": "bdbf51c44b5ee0e7febc80a9a408a4f35fddb2e3f7e06dc2b253dbd101126f70"
+  },
+  {
+    "path": "article.css",
+    "bytes": 13543,
+    "sha256": "1ab83c61cd863b93475eed80554161dfde9a2a0cad3d2067112933e840f4a3a3"
+  },
+  {
+    "path": "articoli/archetipi-e-individuazione.html",
+    "bytes": 21331,
+    "sha256": "fb69dc57e0c93d228084b6038905e16328ce4acc2c3ffd52d369134ca64a33b4"
+  },
+  {
+    "path": "articoli/dal-what-if-al-what-is.html",
+    "bytes": 35588,
+    "sha256": "62fe45ae8b3a3d7e2be12dbfdd6fd0c1483260b4e0625b7c1ef647d108dfc37c"
+  },
+  {
+    "path": "articoli/l-ombra-e-la-voce.html",
+    "bytes": 26511,
+    "sha256": "ed560cb1462eadaca1ae14f6f63abe8d3a37d42d7044acf06ae000516a54ba91"
+  },
+  {
+    "path": "articoli/la-soglia-della-radicalizzazione.html",
+    "bytes": 22350,
+    "sha256": "a8abc82c5ae1995875d8f927f0f73cbd05275371c6ffd52a6a0efe0f50f31ea7"
+  },
+  {
+    "path": "articoli/la-zebra-il-leone-e-lerba.html",
+    "bytes": 65327,
+    "sha256": "67f868c78cd7f49387b225bef2b16bf32639b8708e33e7e97363d7bd80636d6c"
+  },
+  {
+    "path": "articoli/lo-slogun-batte-largomento.html",
+    "bytes": 26227,
+    "sha256": "2fd0ad1a4763220b7a06d17cac2fbde1a56c755910d1c5f0f50183fa5cd44c6d"
+  },
+  {
+    "path": "articoli.html",
+    "bytes": 10046,
+    "sha256": "cab4780b985060735deb62c65c936e3ccd42d1521d4f1ac9ee0ff5fb03e08dab"
+  },
+  {
+    "path": "assets/articoli/archetipi-cover.png",
+    "bytes": 2377011,
+    "sha256": "aa4ae7f2e8d708afe70b7ed5fc24c84330775bdd63ae1aff07ac9b95c9048832"
+  },
+  {
+    "path": "assets/articoli/archetipi-percorso.png",
+    "bytes": 2773592,
+    "sha256": "2bf56bceac46dc7ac553c24e5bc08f6354a6c31855d469dbb63f085299c46e98"
+  },
+  {
+    "path": "assets/articoli/dal-what-if-al-what-is-cover.jpg",
+    "bytes": 1469860,
+    "sha256": "14601937c4c8d8123a009a278983ace4c630f9f1f7f13e975e030090aff88149"
+  },
+  {
+    "path": "assets/articoli/l-ombra-e-la-voce-cover.png",
+    "bytes": 2152530,
+    "sha256": "161dafd206b2ed441b62f901998ade57e40cb9e9141a4464ac73f73c924a9dbe"
+  },
+  {
+    "path": "assets/articoli/la-soglia-cover.jpg",
+    "bytes": 949824,
+    "sha256": "0aa3d8cf0a00e53123683d800c271067da15d3f3cc3830fb383d568f47b0aebc"
+  },
+  {
+    "path": "assets/articoli/la-zebra-cover.jpeg",
+    "bytes": 218176,
+    "sha256": "82eaa10e17d332d20c8f528ab12586a9eca349180a25c681dc9810f49455fc5e"
+  },
+  {
+    "path": "assets/articoli/slogun-cover.webp",
+    "bytes": 803700,
+    "sha256": "dc961f7d7e623a54c396bd55dd70e38542e35e7fe05bdd04ea393fce1e20c59a"
+  },
+  {
+    "path": "assets/autore/articoli/aquila-omnia-cover.webp",
+    "bytes": 40142,
+    "sha256": "31e4ac0e82697546a09509f7b091f3845a8772c4fbd350aef6ebb5d5fabecf65"
+  },
+  {
+    "path": "assets/autore/articoli/aquila-omnia-diario-di-bordo-2021.pdf",
+    "bytes": 5301874,
+    "sha256": "45cdb68ba5a80046ebcaaab7f1f8fbf72ec7f5db2e788f44a9df82458760516e"
+  },
+  {
+    "path": "assets/autore/articoli/cultural-awareness-comunicazione-psyops-2012.pdf",
+    "bytes": 2719910,
+    "sha256": "7fd16f8e71501ba012016a8758d82f5b0a0f6605ad1e9da5f08a7475025d42b5"
+  },
+  {
+    "path": "assets/autore/articoli/cultural-awareness-cover.webp",
+    "bytes": 41624,
+    "sha256": "4cd48a23cebde524d0e1309bf5f92229cb1fd9861b0a9f43a056636747efd6af"
+  },
+  {
+    "path": "assets/autore/limit-model-sere-display.webp",
+    "bytes": 352444,
+    "sha256": "0170b52626208c29b86d660fd2997905fd9836f5d1788b8b4acba230200b2eb2"
+  },
+  {
+    "path": "assets/autore/limit-model-sere-original.png",
+    "bytes": 4114475,
+    "sha256": "e74ecc89bb19aa9d4e3492747d7630157ee5d96ef55ce05d5b3a48e56872bcc4"
+  },
+  {
+    "path": "assets/autore/limite-relazione-cheatsheet-display.webp",
+    "bytes": 433434,
+    "sha256": "f2acfbaa812a3df4606b80bc6b2202acc7522ccdaf3d33c24f19fef4e915e603"
+  },
+  {
+    "path": "assets/autore/limite-relazione-cheatsheet-original.png",
+    "bytes": 3727069,
+    "sha256": "5fcd21de92386878c009ddf4adf6901e34f3fcf4fa3256b6301a00d5fa878337"
+  },
+  {
+    "path": "assets/autore/logo-display.webp",
+    "bytes": 106684,
+    "sha256": "881aa489c04ebb6e3b6a9f498494bc69f28871617359e5ba580a147dd5fa4b2a"
+  },
+  {
+    "path": "assets/autore/logo-original.png",
+    "bytes": 1821169,
+    "sha256": "229b15d41b3700470f0a818df3d914fa2dfaf756250ba8985500df535aea55bb"
+  },
+  {
+    "path": "assets/autore/ritratto-display.webp",
+    "bytes": 141722,
+    "sha256": "ed976ef02de5b52b9e51a0efa11699f361bb5f40d1b18d20544b6b1158217ef8"
+  },
+  {
+    "path": "assets/autore/ritratto-original.png",
+    "bytes": 3006204,
+    "sha256": "8e1cbf25c0ebbefe7773f69804e2266da5d3b2d5009adbac137612bab045cfb9"
+  },
+  {
+    "path": "assets/autore/universo-psiche-thanatos-display.webp",
+    "bytes": 324332,
+    "sha256": "198ef748489f8121c4354e4c034cd742e526d82dd71e64197226a13de972ebdf"
+  },
+  {
+    "path": "assets/autore/universo-psiche-thanatos-original.png",
+    "bytes": 3349438,
+    "sha256": "6194c6c4838fddbf228dbc35b9bec608215bce47140c103b0162c125ea5e31e6"
+  },
+  {
+    "path": "assets/definitivi/affect-original.png",
+    "bytes": 461013,
+    "sha256": "35e5a12b2cf4239430c775b2a80ddd6afa63f727a63a00b9f6c00c730f21c708"
+  },
+  {
+    "path": "assets/definitivi/affect-thumb.webp",
+    "bytes": 128970,
+    "sha256": "e0ee1424ac67719efcb6d590e66026cf8879941fe5baf16df65642741a0935aa"
+  },
+  {
+    "path": "assets/definitivi/affinity-original.png",
+    "bytes": 423475,
+    "sha256": "e3ae9527c176e3a592fb1c298ff7e21a2a82d5c6587d133b08a027db0d2fb954"
+  },
+  {
+    "path": "assets/definitivi/affinity-thumb.webp",
+    "bytes": 123144,
+    "sha256": "d767137791e754ad0592199653f035d84e6b0ffb681376459e8909763d9f5e56"
+  },
+  {
+    "path": "assets/definitivi/ambiguity-original.png",
+    "bytes": 551165,
+    "sha256": "5406186dc9fb184b94465e1a29bd651dba114b6a6bb2aab6ef827bf1b79caee7"
+  },
+  {
+    "path": "assets/definitivi/ambiguity-thumb.webp",
+    "bytes": 146862,
+    "sha256": "127f0cf6a5bcd388acc9c1cbc2c9c6b017d799a6fc136ace57dd30fe7a7957f0"
+  },
+  {
+    "path": "assets/definitivi/anchoring-mussel-original.png",
+    "bytes": 556198,
+    "sha256": "e974d2196c6f926620901419097ddd864e4e642bd78b4db1c8d1d97698334d89"
+  },
+  {
+    "path": "assets/definitivi/anchoring-mussel-thumb.webp",
+    "bytes": 148826,
+    "sha256": "c11aad657b0d22e0ee4c2f0ae70370cfadbf173130c3bbfa3d4d47ddd836ce87"
+  },
+  {
+    "path": "assets/definitivi/apophenia-original.png",
+    "bytes": 10656530,
+    "sha256": "7d528e5326ed20e87db3d14a48aa0c6f7abca79980f4c7d0f1733340ddd52c40"
+  },
+  {
+    "path": "assets/definitivi/apophenia-thumb.webp",
+    "bytes": 135532,
+    "sha256": "d1402d6d7eb58e1491cd2e1b8efd876e49d567a8f8f61755e0d0968a259d8056"
+  },
+  {
+    "path": "assets/definitivi/attentional-bias-original.png",
+    "bytes": 451351,
+    "sha256": "3d9e6eb8f93c3198a751f02b7b10a68f1c132c9add88fb5671fe56c1cfadb5af"
+  },
+  {
+    "path": "assets/definitivi/attentional-bias-thumb.webp",
+    "bytes": 125172,
+    "sha256": "4f0a5ea8bbcc8c25e2b3776b993c5e8d0b2fdb48069ac3abf57b51603478a9d0"
+  },
+  {
+    "path": "assets/definitivi/attribution-original.png",
+    "bytes": 414509,
+    "sha256": "1480cc3486b2ce96d7db209e81f051590cce0f7dfea4e36c74215523201e5b37"
+  },
+  {
+    "path": "assets/definitivi/attribution-thumb.webp",
+    "bytes": 117124,
+    "sha256": "cd20d03bc185afe5b46065de79860213fa2e5f2a9a44334e6e31b3722f4888a0"
+  },
+  {
+    "path": "assets/definitivi/backfire-original.png",
+    "bytes": 486551,
+    "sha256": "aea8be0b61f0bd95ed43341b4f2525e77fb664f26343bc05930fa456fbc8c54f"
+  },
+  {
+    "path": "assets/definitivi/backfire-thumb.webp",
+    "bytes": 136914,
+    "sha256": "bce0a75e159de211637ad57c3b98bde3398ef23133be33ece5dc0daa79b6620e"
+  },
+  {
+    "path": "assets/definitivi/bandwagon-original.png",
+    "bytes": 502375,
+    "sha256": "160bdaca02d7d5622a0704bfaacf3c5fbd901430b738650ab020d6e8b73f6acc"
+  },
+  {
+    "path": "assets/definitivi/bandwagon-thumb.webp",
+    "bytes": 138646,
+    "sha256": "52737f8c6e715cdc922beb47cfed3e9013da56d38b7be01205df25f2f7772531"
+  },
+  {
+    "path": "assets/definitivi/blind-spot-original.png",
+    "bytes": 559716,
+    "sha256": "c87d236495cdb579bf9d8c0aed6ace0264160421c935706afaa70e86a0e9b35b"
+  },
+  {
+    "path": "assets/definitivi/blind-spot-thumb.webp",
+    "bytes": 145424,
+    "sha256": "524dbf0828e757713d77c30f69e2f236a88dd69fa0fb5f1e13080cb3f7f20915"
+  },
+  {
+    "path": "assets/definitivi/communication-axiom-1-original.png",
+    "bytes": 11281825,
+    "sha256": "714721882b93b64adb014a90297b0db863842d78a1910761d22171ecde176576"
+  },
+  {
+    "path": "assets/definitivi/communication-axiom-1-thumb.webp",
+    "bytes": 146700,
+    "sha256": "e860cb0b107061686c3c44ce385ca4ca541595f596b45ee55d678edaf2d83b0a"
+  },
+  {
+    "path": "assets/definitivi/communication-axiom-2-original.png",
+    "bytes": 10947917,
+    "sha256": "028f6321b6c14bccb557b4b070d9943d06accef54f19ecc0e4534fb0ac9b438d"
+  },
+  {
+    "path": "assets/definitivi/communication-axiom-2-thumb.webp",
+    "bytes": 143412,
+    "sha256": "809f9eb309c98b71527f45a6ade91454ba1d69ff3fb4a6c89cad212a60f5f6e8"
+  },
+  {
+    "path": "assets/definitivi/communication-axiom-3-original.png",
+    "bytes": 10872014,
+    "sha256": "5b213e4b02217c6fd81cf5b9b6b75c241c56774155682e58411292b473889f17"
+  },
+  {
+    "path": "assets/definitivi/communication-axiom-3-thumb.webp",
+    "bytes": 152424,
+    "sha256": "bcbf5422a5c09e4f71d601d23d990d6fca58bde3e2c3f63d9e0503223b0fc902"
+  },
+  {
+    "path": "assets/definitivi/communication-axiom-4-original.png",
+    "bytes": 11981420,
+    "sha256": "ba1d47b23d1f34dc8af59127b994628fd13faa9351e6a0d1bd73dc871e9b28fa"
+  },
+  {
+    "path": "assets/definitivi/communication-axiom-4-thumb.webp",
+    "bytes": 151664,
+    "sha256": "4ba70c22970798cf1ea8dab141386f1c22c168adc40e628a5ab44d1db079f2b4"
+  },
+  {
+    "path": "assets/definitivi/communication-axiom-5-original.png",
+    "bytes": 12259998,
+    "sha256": "9860512bae3464a88a756b78f988bfb21f1a8e2ed1a89701d358ef81b2772593"
+  },
+  {
+    "path": "assets/definitivi/communication-axiom-5-thumb.webp",
+    "bytes": 154778,
+    "sha256": "f6d31edcdadf4adac7ff06b369d27ff3442908458be9885036199c14544b9971"
+  },
+  {
+    "path": "assets/definitivi/confirmation-original.png",
+    "bytes": 524758,
+    "sha256": "db2ca888dcb406b0b733d292ba05af692b7c50967637743f4241d96c62108807"
+  },
+  {
+    "path": "assets/definitivi/confirmation-thumb.webp",
+    "bytes": 137338,
+    "sha256": "7cdf5a9c7a586f3de9196317edd2253be11d4fc9f64828d873a656c4fd4e57eb"
+  },
+  {
+    "path": "assets/definitivi/continuing-bonds-original.png",
+    "bytes": 14804534,
+    "sha256": "5c83cc6a5b01216188778fd60c5f378c68ac33968493dec35640efae57d4c6d2"
+  },
+  {
+    "path": "assets/definitivi/continuing-bonds-thumb.webp",
+    "bytes": 164548,
+    "sha256": "f5d74426190324d137e0bc2f6db82d5792d172026ee987cf00064b8672bc3f01"
+  },
+  {
+    "path": "assets/definitivi/contrast-original.png",
+    "bytes": 516113,
+    "sha256": "a93d3224d67464555583460fce544e746a97ab7e207c77e8bf40d39f185e5ac8"
+  },
+  {
+    "path": "assets/definitivi/contrast-thumb.webp",
+    "bytes": 140680,
+    "sha256": "5cf3731e10ac62beb2f0df9bdddd8a96cd0f0d51cfdcd431c606d2afd4c64b48"
+  },
+  {
+    "path": "assets/definitivi/deindividuation-original.png",
+    "bytes": 11865371,
+    "sha256": "dcd885994ea4f8f9a8c5238e6480ef3944af3ccf64310bf7027332507417ffec"
+  },
+  {
+    "path": "assets/definitivi/deindividuation-thumb.webp",
+    "bytes": 143288,
+    "sha256": "7216aa69f263b86d0f153e249f800279fc3b9a7b6ca60ae88266f4ae1333f567"
+  },
+  {
+    "path": "assets/definitivi/dissonance-original.png",
+    "bytes": 504096,
+    "sha256": "6aaffc437affc279329199297fe51186bfabc734678e1ee7195b39ea2bf66b47"
+  },
+  {
+    "path": "assets/definitivi/dissonance-thumb.webp",
+    "bytes": 137488,
+    "sha256": "a2c5f00d98106dca658724700ff2bd84c7a2cd6fc99b60da3cc30b75d5911ed4"
+  },
+  {
+    "path": "assets/definitivi/dodo-verdict-original.png",
+    "bytes": 13784677,
+    "sha256": "c602256cfc1439a6a17d674fe684769675a6bd90fae1a97bbf02422394595caa"
+  },
+  {
+    "path": "assets/definitivi/dodo-verdict-thumb.webp",
+    "bytes": 162336,
+    "sha256": "c2c75a0dd01d82a7dbb6011ee096067c34830c51675bb7c4d0e8beb3ac197400"
+  },
+  {
+    "path": "assets/definitivi/dunning-kruger-original.png",
+    "bytes": 581706,
+    "sha256": "046431b17e1224476d0759cc3d68865be4756a8c4bcced9f53f4c99696e1f883"
+  },
+  {
+    "path": "assets/definitivi/dunning-kruger-thumb.webp",
+    "bytes": 153796,
+    "sha256": "9ab3aea1058c6167b0eeaff2da2f1cc1f135fcf48f19fa8c4d59749fcab4c8e1"
+  },
+  {
+    "path": "assets/definitivi/emotion-anger-original.png",
+    "bytes": 520021,
+    "sha256": "61aba44dae1da7a23ebe8d7c310806c36f8bef599fc150c60142561d4f0a01a9"
+  },
+  {
+    "path": "assets/definitivi/emotion-anger-thumb.webp",
+    "bytes": 141670,
+    "sha256": "9e50fa01467f64f7df4bc5c8d2cb697d9af0abd2cdaa0ba819b283b4c8c73f23"
+  },
+  {
+    "path": "assets/definitivi/emotion-disgust-original.png",
+    "bytes": 470295,
+    "sha256": "3b1db4ff0dcda709271eb09a1f499966637274f300c51183c518b44a4191451c"
+  },
+  {
+    "path": "assets/definitivi/emotion-disgust-thumb.webp",
+    "bytes": 132084,
+    "sha256": "04f600db36d3b7ae569cc97ff37bf8e14956476fc9d24cc295526abd75fb9368"
+  },
+  {
+    "path": "assets/definitivi/emotion-fear-original.png",
+    "bytes": 479257,
+    "sha256": "7410542494469f4b588ad2e7e7633d0eae8992da1f4d82341f50a7f800cea60f"
+  },
+  {
+    "path": "assets/definitivi/emotion-fear-thumb.webp",
+    "bytes": 130494,
+    "sha256": "7bfc965639a8a56171ee7d7cabda27afd7cf38528076945ce9676c43e4a2429c"
+  },
+  {
+    "path": "assets/definitivi/emotion-focused-coping-original.png",
+    "bytes": 585251,
+    "sha256": "30b6b225ffd2fe77e25999a0c68dc52f209182f3de25b3787ce797de54e6d4a6"
+  },
+  {
+    "path": "assets/definitivi/emotion-focused-coping-thumb.webp",
+    "bytes": 156908,
+    "sha256": "0d4a85eb5e36a39fd8e47435e60f60c745c84c277c2438efc8533b9fb4d9b4a4"
+  },
+  {
+    "path": "assets/definitivi/emotion-joy-original.png",
+    "bytes": 494552,
+    "sha256": "cbdac766a811bfc5a942c3263b72e9941807b765949438990307fea196e4dae5"
+  },
+  {
+    "path": "assets/definitivi/emotion-joy-thumb.webp",
+    "bytes": 133198,
+    "sha256": "899a137a15487a505e425b7db69d87ea38fff7a96a7c44652edcd9dc5189debf"
+  },
+  {
+    "path": "assets/definitivi/emotion-sadness-original.png",
+    "bytes": 488334,
+    "sha256": "288b3e2a1f4b26066ca0b9072dc471e96020c3bb3a5581c1facff163748a128c"
+  },
+  {
+    "path": "assets/definitivi/emotion-sadness-thumb.webp",
+    "bytes": 132928,
+    "sha256": "ba0685764ee0c154a98a104f2d38f63007155e769a44fbbd9a85dfbca901206a"
+  },
+  {
+    "path": "assets/definitivi/emotion-surprise-original.png",
+    "bytes": 522486,
+    "sha256": "5a7243d380f8959df5b05dbce2bcbe6944dfc30fde883d48bf940bca1bbf51a1"
+  },
+  {
+    "path": "assets/definitivi/emotion-surprise-thumb.webp",
+    "bytes": 139790,
+    "sha256": "b7f3566e44a9b108d0a846a10c00bf4293f3af32e92b492dc757a548358e911c"
+  },
+  {
+    "path": "assets/definitivi/emotional-contagion-original.png",
+    "bytes": 559679,
+    "sha256": "d71ae56ebf5e2fbd3b634af86994d95d56a946f85c39c003ad043163bb86e34a"
+  },
+  {
+    "path": "assets/definitivi/emotional-contagion-thumb.webp",
+    "bytes": 151006,
+    "sha256": "bd5c604bca11a21b33b8f6b83cd862121bdd553bb500dab091d052214f6558eb"
+  },
+  {
+    "path": "assets/definitivi/empathy-emotional-intelligence-original.png",
+    "bytes": 11231210,
+    "sha256": "870fdaed0bc034e21e1ecca6aaebee05bf7a6a1f9f6c8c862010cd9a6dd159d9"
+  },
+  {
+    "path": "assets/definitivi/empathy-emotional-intelligence-thumb.webp",
+    "bytes": 134614,
+    "sha256": "ab965c11076caf5d218877fac8a1cd84618514baf143b63fc94644190317c236"
+  },
+  {
+    "path": "assets/definitivi/escape-avoidance-original.png",
+    "bytes": 509812,
+    "sha256": "2e9549c274f3eb7ad0277ede9c404a36766ad3be908583166da06c9a4f7bcf88"
+  },
+  {
+    "path": "assets/definitivi/escape-avoidance-thumb.webp",
+    "bytes": 138090,
+    "sha256": "fb40db2aa2efa6f59f0d3333b5d0a54566f20acba4c7852dc8ef85769afc558b"
+  },
+  {
+    "path": "assets/definitivi/ethnocentrism-original.png",
+    "bytes": 629070,
+    "sha256": "07807d72a286900cdcd101f788afd622ab001f0200ddd39966da4490d3d819fb"
+  },
+  {
+    "path": "assets/definitivi/ethnocentrism-thumb.webp",
+    "bytes": 170134,
+    "sha256": "dc17066e18f995d2cba4af2d3d4863e65ba953d0ba0195bd2f4f0a86ee07b55d"
+  },
+  {
+    "path": "assets/definitivi/expectation-blindness-original.png",
+    "bytes": 12124998,
+    "sha256": "876198adbd305f236666049253863f657b209788bc945323453317c17d237dc4"
+  },
+  {
+    "path": "assets/definitivi/expectation-blindness-thumb.webp",
+    "bytes": 150170,
+    "sha256": "10d176ff0d3754fd2a4c6da0822b72996b895c286f4fd8abca420c08f3b711ec"
+  },
+  {
+    "path": "assets/definitivi/explanatory-depth-original.png",
+    "bytes": 568814,
+    "sha256": "096cb9e896dce94821f2351dc2b0157c4ef5b74d2280c9b8b1607cda2db9ef42"
+  },
+  {
+    "path": "assets/definitivi/explanatory-depth-thumb.webp",
+    "bytes": 141736,
+    "sha256": "b45bba6e3ce3df8a312dca733a8de76ac5bc62ce385a7cadeea95c044e358ba9"
+  },
+  {
+    "path": "assets/definitivi/extrinsic-motivation-original.png",
+    "bytes": 13821932,
+    "sha256": "53844ca081324c0f32a6144af16233d430b246cba4a87ef525622572659650e5"
+  },
+  {
+    "path": "assets/definitivi/extrinsic-motivation-thumb.webp",
+    "bytes": 151618,
+    "sha256": "db529d9a0c13479a6d58945c8cd1925de555bd88d2d1768b04d33a8bcaeb3c75"
+  },
+  {
+    "path": "assets/definitivi/false-consensus-original.png",
+    "bytes": 483241,
+    "sha256": "d15bc4c0c1fb247b9fc3b88cb4073a6618ddaaccf6d05cd5ffe34e0602caf27f"
+  },
+  {
+    "path": "assets/definitivi/false-consensus-thumb.webp",
+    "bytes": 131878,
+    "sha256": "868bc003dc1ec975afb29ef92e198503428a1588145d3affa8a3f17d13305d84"
+  },
+  {
+    "path": "assets/definitivi/fawn-response-original.png",
+    "bytes": 494595,
+    "sha256": "ae77446d28bf0205d67f23eedd2dcd30348b76f66344cac4ca0db4849cfeb713"
+  },
+  {
+    "path": "assets/definitivi/fawn-response-thumb.webp",
+    "bytes": 135978,
+    "sha256": "c4acdcf8c6a581a1010e1ee1f2b2fd39ecc60c7b57a6f024933966261145e70c"
+  },
+  {
+    "path": "assets/definitivi/field-of-consciousness-original.png",
+    "bytes": 12739523,
+    "sha256": "52a53cb0c5149c40d72065aeef09478defc1a1af5f07cbcfb8259b6d42ecf514"
+  },
+  {
+    "path": "assets/definitivi/field-of-consciousness-thumb.webp",
+    "bytes": 158608,
+    "sha256": "89007b79d4594f431ee885f5fa865f5b44cdbd1df49773ae409ba5ffaaba67bd"
+  },
+  {
+    "path": "assets/definitivi/fight-response-original.png",
+    "bytes": 534069,
+    "sha256": "77b65bd840396514687f5b285795b1a51f283813b54c4e2fd7937ad2f85abc30"
+  },
+  {
+    "path": "assets/definitivi/fight-response-thumb.webp",
+    "bytes": 145664,
+    "sha256": "2fa2009f0790dac647baf83e6653e845b5f8d2021e90b5950d3f36554e6d726d"
+  },
+  {
+    "path": "assets/definitivi/flight-response-original.png",
+    "bytes": 514015,
+    "sha256": "918b80aed504ccc678c149ae4b700620f0b126db801b5c5982f00e74488964a0"
+  },
+  {
+    "path": "assets/definitivi/flight-response-thumb.webp",
+    "bytes": 141390,
+    "sha256": "808a92737c35e7d6818ce3e70a34798b7bf6b29d9219bc35aa094a089204a6fc"
+  },
+  {
+    "path": "assets/definitivi/flop-faint-response-original.png",
+    "bytes": 533757,
+    "sha256": "7e8d711367997505d899c58b47c651633643e28d3cf7db71599f272720e4ec52"
+  },
+  {
+    "path": "assets/definitivi/flop-faint-response-thumb.webp",
+    "bytes": 149342,
+    "sha256": "5d4d7cfdea3962c2d8cca5c311439bcd7080ff2b9689808ffc9c9f0ed7caf46f"
+  },
+  {
+    "path": "assets/definitivi/framing-original.png",
+    "bytes": 444629,
+    "sha256": "483acc9203a106aea3cbfae351799304e481d62462d5b6674725303714abf971"
+  },
+  {
+    "path": "assets/definitivi/framing-thumb.webp",
+    "bytes": 128020,
+    "sha256": "dd3a6f656af97f2a127025b6d8c9c81b7846b9f124152e53da122b7416a70766"
+  },
+  {
+    "path": "assets/definitivi/freeze-response-original.png",
+    "bytes": 488674,
+    "sha256": "92493228acb740c4149d0413f36c2bce31f4006f89c0f49faeff742e004b76a7"
+  },
+  {
+    "path": "assets/definitivi/freeze-response-thumb.webp",
+    "bytes": 135234,
+    "sha256": "ce508a1747f4b184ce68e1d9c54dee9f142c83e7cba156305f48cf4cf85e0634"
+  },
+  {
+    "path": "assets/definitivi/gamblers-fallacy-original.png",
+    "bytes": 440180,
+    "sha256": "4a847d0387c4e3fa33563b3cb60b05ffe3a6923fdc706ad1d5815ae2b6d50bf4"
+  },
+  {
+    "path": "assets/definitivi/gamblers-fallacy-thumb.webp",
+    "bytes": 127758,
+    "sha256": "817b6f967388905cb69d6444977dff38f00c3f705d5c003ec00028bda6311bf1"
+  },
+  {
+    "path": "assets/definitivi/groupthink-original.png",
+    "bytes": 567208,
+    "sha256": "153216233aaab4084b904fb42de3d3ccf9f4ec8952856472ed0a6decfced812f"
+  },
+  {
+    "path": "assets/definitivi/groupthink-thumb.webp",
+    "bytes": 146084,
+    "sha256": "568965b0eee803fdc5605957b3919b1f665dff53bfce5e17a31f0f387f40771c"
+  },
+  {
+    "path": "assets/definitivi/halo-cat-original.png",
+    "bytes": 453779,
+    "sha256": "b6dac7bde779beaa9e056b8a70889e77f9620d111bd9d1e473b9e46a583dc4c8"
+  },
+  {
+    "path": "assets/definitivi/halo-cat-thumb.webp",
+    "bytes": 122146,
+    "sha256": "910d2d8fb2b7ada3bbc02c7b66e7cecb6f33b5622815434c3f7ce9e515f7c95c"
+  },
+  {
+    "path": "assets/definitivi/hindsight-original.png",
+    "bytes": 588935,
+    "sha256": "11644a2024139e685a119859fbe01f0b88dec67af6b76958ae93b93cce43a607"
+  },
+  {
+    "path": "assets/definitivi/hindsight-thumb.webp",
+    "bytes": 157822,
+    "sha256": "e5bbb5d40b80b87e0cc4cc86b578e1ed1c00e7d92bebc70ff97b4bc1b566e86e"
+  },
+  {
+    "path": "assets/definitivi/hostile-attribution-original.png",
+    "bytes": 437033,
+    "sha256": "66e7ee3dbb8cc015e0f8dbd5dfc8082e7ff85ffc90b592de5f8abf7762ba8be0"
+  },
+  {
+    "path": "assets/definitivi/hostile-attribution-thumb.webp",
+    "bytes": 127520,
+    "sha256": "d79059ecc33b234346b1eba42da59a7f5bd2ff9173f8d90161fc2c1b4a733b21"
+  },
+  {
+    "path": "assets/definitivi/hyperbolic-discounting-original.png",
+    "bytes": 576675,
+    "sha256": "efac829baba8e48af59e7e0f5c3b8cb66d5e37499cd26cc76676afbcf9cdbcc0"
+  },
+  {
+    "path": "assets/definitivi/hyperbolic-discounting-thumb.webp",
+    "bytes": 149212,
+    "sha256": "cb1ef29306aad1d71071e9c806c9749864d792371c5fe67e5ab137977a83d2e7"
+  },
+  {
+    "path": "assets/definitivi/ikea-effect-original.png",
+    "bytes": 587051,
+    "sha256": "97fa950ea41b97d67e69de0a03a6659a06c744077e76d34a7fcb48ba8ab2dd20"
+  },
+  {
+    "path": "assets/definitivi/ikea-effect-thumb.webp",
+    "bytes": 159616,
+    "sha256": "871cd3ab805f26812fa45487044b851254ff724a060c6935e95df755f2286014"
+  },
+  {
+    "path": "assets/definitivi/illusion-of-transparency-original.png",
+    "bytes": 9683869,
+    "sha256": "fa7b63980575ce1034c71603be2de667f764219a8883882e628a5db3e414a144"
+  },
+  {
+    "path": "assets/definitivi/illusion-of-transparency-thumb.webp",
+    "bytes": 124210,
+    "sha256": "3a1cb6652c29fe4190a2c0f3c2f1bb131db707fec367b8878325267863b4c31b"
+  },
+  {
+    "path": "assets/definitivi/illusory-superiority-original.png",
+    "bytes": 478126,
+    "sha256": "f81959b33bc1be3121bfc558ae3b3f8ed9bf26e579294dc6c90a17aa228d0461"
+  },
+  {
+    "path": "assets/definitivi/illusory-superiority-thumb.webp",
+    "bytes": 128962,
+    "sha256": "302d6824efbb935b138d0fe13fce1f2adf0059f772249a5276fe2499a9ef58e6"
+  },
+  {
+    "path": "assets/definitivi/illusory-truth-original.png",
+    "bytes": 450761,
+    "sha256": "31f53b18cde32aa6e050ae87939a7e030b1a9a032131cc5d9640fb8952316996"
+  },
+  {
+    "path": "assets/definitivi/illusory-truth-thumb.webp",
+    "bytes": 123632,
+    "sha256": "ff3f986ea625df0f25b959e5ace42ef0505f221a38c69711ad81170f313b530d"
+  },
+  {
+    "path": "assets/definitivi/intersubjectivity-original.png",
+    "bytes": 10344323,
+    "sha256": "ce3cc99834d5da459f264e15e67b159eb418f9e4450cf01f5dc6f2b6f9d8507c"
+  },
+  {
+    "path": "assets/definitivi/intersubjectivity-thumb.webp",
+    "bytes": 124490,
+    "sha256": "898f071dbe8c4d7bffa7e1d125b224f5eeb755957922375f0eee26b3a0b7180b"
+  },
+  {
+    "path": "assets/definitivi/intrinsic-motivation-original.png",
+    "bytes": 13759923,
+    "sha256": "df49057f4b76acf42e974ba4b3d96ed3b5318f30dc5e875742848ad3844ba6f5"
+  },
+  {
+    "path": "assets/definitivi/intrinsic-motivation-thumb.webp",
+    "bytes": 163478,
+    "sha256": "d8756667884923a08941e0555770afb656ae43406c96ea7bad444c1debda519b"
+  },
+  {
+    "path": "assets/definitivi/law-of-the-instrument-original.png",
+    "bytes": 11831450,
+    "sha256": "b9dfadcbd61fe8bbbaa5a7aa044131d34675b4e23921c37590a810a29ca61855"
+  },
+  {
+    "path": "assets/definitivi/law-of-the-instrument-thumb.webp",
+    "bytes": 145922,
+    "sha256": "42d4d057c49973ee1eb192ef45995eb5d6dbe3ef727d5b5a3f679cabc39f7007"
+  },
+  {
+    "path": "assets/definitivi/limit-identity-original.png",
+    "bytes": 13418105,
+    "sha256": "d0c5bdbb042e2464ade21b37d8b13af68f9fa09bcf46ffdcb14e315a53d55ea2"
+  },
+  {
+    "path": "assets/definitivi/limit-identity-thumb.webp",
+    "bytes": 157114,
+    "sha256": "ca75d7c178b085bdd0db498d17e38faf42383363934120b5d94aeae9a895ec78"
+  },
+  {
+    "path": "assets/definitivi/limit-inhibition-original.png",
+    "bytes": 13347738,
+    "sha256": "2b5fd12790441414e23aa9f92375db43e8c6944f53a8014dd0adc39ac5ac37fe"
+  },
+  {
+    "path": "assets/definitivi/limit-inhibition-thumb.webp",
+    "bytes": 161974,
+    "sha256": "8b162de0f0eeb746cafa4e5ab35d0498bac78001162f8e61e6eaba08a48b8b96"
+  },
+  {
+    "path": "assets/definitivi/limit-load-original.png",
+    "bytes": 14069415,
+    "sha256": "fe30e8d9d768c290f2aecba00a81b6019db81391c359cca88cffda4ccc4ead8a"
+  },
+  {
+    "path": "assets/definitivi/limit-load-thumb.webp",
+    "bytes": 155974,
+    "sha256": "446a2d525e919a41f7e062a22067419e516cd4cb8cf4fd1e728bad70a8d7c69d"
+  },
+  {
+    "path": "assets/definitivi/limit-mentalizing-original.png",
+    "bytes": 11155522,
+    "sha256": "d48b8cab17994d2f46948aa07a0c95601a5df9080d2d40884b4464431e4d0ca2"
+  },
+  {
+    "path": "assets/definitivi/limit-mentalizing-thumb.webp",
+    "bytes": 138054,
+    "sha256": "1803cc8b7410f4e3d030eaf3a086e7827bd0b4c637097860ce4b01952aaa5385"
+  },
+  {
+    "path": "assets/definitivi/limit-model-original.png",
+    "bytes": 12320394,
+    "sha256": "0cf077bda13fa3557e2b924ec1ce9a7e0140cb47ce10db0a726c42c9de95a777"
+  },
+  {
+    "path": "assets/definitivi/limit-model-thumb.webp",
+    "bytes": 159122,
+    "sha256": "25f4937de01caca3239731e068a3cfc97b0e270f6c3d3bc90a1966cec6e3e776"
+  },
+  {
+    "path": "assets/definitivi/limit-tension-original.png",
+    "bytes": 12598338,
+    "sha256": "5204f54fca055d0eaec61c59f34bc076cbeadcb0384132615050bf24fe0e552a"
+  },
+  {
+    "path": "assets/definitivi/limit-tension-thumb.webp",
+    "bytes": 150296,
+    "sha256": "873b1db530f5df7b50fb859a1bef227dc58209db6e2fc59e2b8d5635575f6c9b"
+  },
+  {
+    "path": "assets/definitivi/locus-of-control-original.png",
+    "bytes": 11782255,
+    "sha256": "1e02e1db710668262341d8cb0dbe76d37d807a56c2603fb9f7fa81d348846f6b"
+  },
+  {
+    "path": "assets/definitivi/locus-of-control-thumb.webp",
+    "bytes": 157968,
+    "sha256": "309b598ad56b801078148783acf50b65df04132854512686dd4b8752d59a3a43"
+  },
+  {
+    "path": "assets/definitivi/lollapalooza-original.png",
+    "bytes": 587922,
+    "sha256": "cad8354290c98e6331a9c1f36bb1007cf47d02976f48d9331fc9e3967d0590c0"
+  },
+  {
+    "path": "assets/definitivi/lollapalooza-thumb.webp",
+    "bytes": 167034,
+    "sha256": "b515d572a2703507498a81610200b0abf5793cf9218600b3aadfae2164749b46"
+  },
+  {
+    "path": "assets/definitivi/loss-aversion-original.png",
+    "bytes": 504240,
+    "sha256": "606b4207a9f4a3fb407fcc0c81d383dceab29aa62a71d2e621e2885b770b523f"
+  },
+  {
+    "path": "assets/definitivi/loss-aversion-thumb.webp",
+    "bytes": 142748,
+    "sha256": "cf512efd1f7ae3178130e72d673adf03cfc81022b1e144a0113504b3e1a2e7e7"
+  },
+  {
+    "path": "assets/definitivi/mental-social-representation-original.png",
+    "bytes": 577441,
+    "sha256": "00b28b2f54e51f8890c64f287cdb63506ba768c56d8ad1bf7639b227c959404c"
+  },
+  {
+    "path": "assets/definitivi/mental-social-representation-thumb.webp",
+    "bytes": 154132,
+    "sha256": "4ffbbe2e4ea3f58a981e143d064bdaf30f4e39eef3f78113aff4c5c2aebd90b5"
+  },
+  {
+    "path": "assets/definitivi/mindfulness-original.png",
+    "bytes": 11654831,
+    "sha256": "5853c6e7156523d61d66a2e5ab680852041ff43fffa36c043d39f5d040b8a891"
+  },
+  {
+    "path": "assets/definitivi/mindfulness-thumb.webp",
+    "bytes": 141884,
+    "sha256": "55008b71830a0f98b1b52441f1e09d487e372008208edae993a3d7cde88ec7e3"
+  },
+  {
+    "path": "assets/definitivi/mood-congruent-memory-original.png",
+    "bytes": 12235821,
+    "sha256": "6e42d9af9a1612509befa2ad4f98cac55225a160083be387839421389904e869"
+  },
+  {
+    "path": "assets/definitivi/mood-congruent-memory-thumb.webp",
+    "bytes": 144268,
+    "sha256": "00e2458f06a288ca07c1ccbefec0d8d4cfcf26859a914b41cc6aeb83accc8314"
+  },
+  {
+    "path": "assets/definitivi/moral-disengagement-conduct-original.png",
+    "bytes": 11671958,
+    "sha256": "6e292d3ea0560970dc8ab5dc53b1ca617557349fc145a4ab9717855b3070c41c"
+  },
+  {
+    "path": "assets/definitivi/moral-disengagement-conduct-thumb.webp",
+    "bytes": 152674,
+    "sha256": "5a49a5a665b1ddbf678fcafde5a16bdce37bc07004437ba6c3628ab413e4155c"
+  },
+  {
+    "path": "assets/definitivi/moral-disengagement-consequences-original.png",
+    "bytes": 12753599,
+    "sha256": "beabce2ef1d1ee2363314f65f98f3a9d5fe928e8deee885da16557ff480ba4c7"
+  },
+  {
+    "path": "assets/definitivi/moral-disengagement-consequences-thumb.webp",
+    "bytes": 155262,
+    "sha256": "e94ac19644bb92c581ccb1f10365e13b83f1d107e2ab220d5d4ed76f3c00dd1b"
+  },
+  {
+    "path": "assets/definitivi/moral-disengagement-responsibility-original.png",
+    "bytes": 12794379,
+    "sha256": "0fe54db377c73c11ba257d319d4331b6ae1d189d1e65a97f9cd5adc130969951"
+  },
+  {
+    "path": "assets/definitivi/moral-disengagement-responsibility-thumb.webp",
+    "bytes": 152722,
+    "sha256": "03058423b1a7e2ded59bba33dee83dc53973c5f60c45623949fc38f988b0cd4c"
+  },
+  {
+    "path": "assets/definitivi/moral-disengagement-victim-original.png",
+    "bytes": 13063523,
+    "sha256": "726fb4fa5b4d8cea29110ee5fcb7e91a19dbfdda5071ec32b44c260a8314286b"
+  },
+  {
+    "path": "assets/definitivi/moral-disengagement-victim-thumb.webp",
+    "bytes": 159990,
+    "sha256": "04c24c486d876784c02b5d0fb0b851aa67744daf13114d856b186b5865ddaf5b"
+  },
+  {
+    "path": "assets/definitivi/naive-realism-original.png",
+    "bytes": 619236,
+    "sha256": "3738e0846a8810cadc7688faa051c7e0b7180464e7b1e0d4ce477cb228ae4708"
+  },
+  {
+    "path": "assets/definitivi/naive-realism-thumb.webp",
+    "bytes": 161684,
+    "sha256": "744aea678e7233f45cd88fa006963f325b589cd7e920446853c99453be71b2c7"
+  },
+  {
+    "path": "assets/definitivi/negativity-original.png",
+    "bytes": 605875,
+    "sha256": "f696a3e867e961efda6e507bebf751698da9cb05d846b32650115d3659dd4608"
+  },
+  {
+    "path": "assets/definitivi/negativity-thumb.webp",
+    "bytes": 161588,
+    "sha256": "64209fc67b2392a6ab3b05d51ba91cbe7e762adccb3d799a9439cadc5aa4082e"
+  },
+  {
+    "path": "assets/definitivi/noise-original.png",
+    "bytes": 428135,
+    "sha256": "b9b322163cd5c6e3b822bdbafd2ee900aed56bd9fe4665bb38711066ae3cee27"
+  },
+  {
+    "path": "assets/definitivi/noise-thumb.webp",
+    "bytes": 116598,
+    "sha256": "c0abc305bb579a9ef09e27318db843801abc10e6c589c2559d905738d785ed33"
+  },
+  {
+    "path": "assets/definitivi/normalcy-bias-original.png",
+    "bytes": 489034,
+    "sha256": "ac90cb01e6fd709831bebede6b4b9909b977c3d07c37c3de73700d3926d5e8ce"
+  },
+  {
+    "path": "assets/definitivi/normalcy-bias-thumb.webp",
+    "bytes": 131752,
+    "sha256": "381e304d0539a7fac77908d22b9cac8f359dd1436d1d9344036fe6beb8377c9c"
+  },
+  {
+    "path": "assets/definitivi/occasion-noise-original.png",
+    "bytes": 441678,
+    "sha256": "887eee4230d26ad1890a3647701c68db3d831bbf18130394d560d7275c4184e1"
+  },
+  {
+    "path": "assets/definitivi/occasion-noise-thumb.webp",
+    "bytes": 124680,
+    "sha256": "8ac9a212edea1d82a727b29478a526ca9fe4655a8668ea4ad466297f612fa847"
+  },
+  {
+    "path": "assets/definitivi/ocean-agreeableness-original.png",
+    "bytes": 12313882,
+    "sha256": "b713b0689287685623292830b5a33a1fd77f5d2fe90cdee4ceae7e3c33eec4a6"
+  },
+  {
+    "path": "assets/definitivi/ocean-agreeableness-thumb.webp",
+    "bytes": 159042,
+    "sha256": "692ff0bcbdd4075b9ad5e626157c9299769a85c45b2aeff7a4fd1771c10c9da6"
+  },
+  {
+    "path": "assets/definitivi/ocean-big-five-original.png",
+    "bytes": 14752472,
+    "sha256": "e9e316a5fa788ff56da3d68984ca2916a8ab58a2c80499c285d46365a4685cec"
+  },
+  {
+    "path": "assets/definitivi/ocean-big-five-thumb.webp",
+    "bytes": 173568,
+    "sha256": "4307c4d736837340981828af8adefa01c2a7d322a3d6fa71a03ee5a04b1dacda"
+  },
+  {
+    "path": "assets/definitivi/ocean-conscientiousness-original.png",
+    "bytes": 12613102,
+    "sha256": "74278c63423a17d05a4c42ceae7100e0174f297ffdd194b39ec1b44980933893"
+  },
+  {
+    "path": "assets/definitivi/ocean-conscientiousness-thumb.webp",
+    "bytes": 157184,
+    "sha256": "95f7069e1440e457a3bb3cfe11fade117e3f44054ab13773b720c49162d4fbd9"
+  },
+  {
+    "path": "assets/definitivi/ocean-extraversion-original.png",
+    "bytes": 13139857,
+    "sha256": "6d96462713b5cbd2d3ff1641e0e0a81b639d3dca1882dfe1d0db739965a5a021"
+  },
+  {
+    "path": "assets/definitivi/ocean-extraversion-thumb.webp",
+    "bytes": 162536,
+    "sha256": "cef124e93bc490c6cdfa4260e9cf92bac8603e9f77b517715093ab08ea0f4870"
+  },
+  {
+    "path": "assets/definitivi/ocean-neuroticism-original.png",
+    "bytes": 12969265,
+    "sha256": "645c7d85e137179c368b387363b5579b22e5902112ca4468ebae5e62677df1f5"
+  },
+  {
+    "path": "assets/definitivi/ocean-neuroticism-thumb.webp",
+    "bytes": 162384,
+    "sha256": "7431197a35fe60a35fabbf1533a51243bce6748b1424aaf4219eec27f54377a0"
+  },
+  {
+    "path": "assets/definitivi/ocean-openness-original.png",
+    "bytes": 13290850,
+    "sha256": "b4c9b21c563b71557904fa18b9c5bf29cd96ac82c600f20d32b908250732065e"
+  },
+  {
+    "path": "assets/definitivi/ocean-openness-thumb.webp",
+    "bytes": 163734,
+    "sha256": "1a6ef4e963ad9ead3597c7ebf5e2f9f9388fffd90a26edbb64e9a3ec949a92f9"
+  },
+  {
+    "path": "assets/definitivi/ostrich-bias-original.png",
+    "bytes": 540362,
+    "sha256": "451c64aad13939df6d54bfd01cb7acc6819003e623d9fc9e6d8bd4f0b923b993"
+  },
+  {
+    "path": "assets/definitivi/ostrich-bias-thumb.webp",
+    "bytes": 144110,
+    "sha256": "9ab4ba94ad7c295532608d9b324a0955e09a0657cf41c11746c9533fc38c3883"
+  },
+  {
+    "path": "assets/definitivi/overprecision-original.png",
+    "bytes": 10841866,
+    "sha256": "7251e7f4e70579efc5f8035e6d46f6b8a4f99ac8623081401a9ac5c9d92f1217"
+  },
+  {
+    "path": "assets/definitivi/overprecision-thumb.webp",
+    "bytes": 143324,
+    "sha256": "f5fed29279cc0d2c43ddb4ff236c72a8bfdee2e54e5370431a442d0cf25e1d91"
+  },
+  {
+    "path": "assets/definitivi/paradoxical-stratagem-original.png",
+    "bytes": 13079824,
+    "sha256": "9dd803b2101c6edd44d2375f343eaa2ec244dd711627995638f306ceff0f7892"
+  },
+  {
+    "path": "assets/definitivi/paradoxical-stratagem-thumb.webp",
+    "bytes": 154462,
+    "sha256": "afa0b95109cf1d2b0194ce8ced169ed2a5047b5021f36b8a8175dfa670868e34"
+  },
+  {
+    "path": "assets/definitivi/pareidolia-original.png",
+    "bytes": 14219924,
+    "sha256": "d27489a0238281b7cfb2a68545d6b87e94986f19ebbdb70d47780e9cc7f50012"
+  },
+  {
+    "path": "assets/definitivi/pareidolia-thumb.webp",
+    "bytes": 154858,
+    "sha256": "902cbb0243b2212763910eb77e7304ede2f9bac8e093153fc2dd252bac86a01d"
+  },
+  {
+    "path": "assets/definitivi/peacock-original.png",
+    "bytes": 623651,
+    "sha256": "5f7970b89d930e64aa8a881e50190fd88bb5b1e2b632deede8d3d644964aa18e"
+  },
+  {
+    "path": "assets/definitivi/peacock-thumb.webp",
+    "bytes": 159384,
+    "sha256": "6018404f342870e204f2bffc2b4085d3348f34db4e50df9f5e54b1913177b275"
+  },
+  {
+    "path": "assets/definitivi/persuasion-authority-original.png",
+    "bytes": 11545050,
+    "sha256": "97749774da0ea7e88c107d2e8fdd4cfbbdfba9f194d233efb4deace7c4053745"
+  },
+  {
+    "path": "assets/definitivi/persuasion-authority-thumb.webp",
+    "bytes": 147808,
+    "sha256": "e5f59d3196549585cab186a079af4a1d13dcf781eaf1909cf84a2e8ed2a40f4b"
+  },
+  {
+    "path": "assets/definitivi/persuasion-commitment-original.png",
+    "bytes": 12937743,
+    "sha256": "43936b61085c0abbfaf51789e663179bf47a56b29c1286a65979b5c4e66cbaf3"
+  },
+  {
+    "path": "assets/definitivi/persuasion-commitment-thumb.webp",
+    "bytes": 160440,
+    "sha256": "fcf4f2135b63f6dd6afd4ed44b18a2fde54bfdf095ced9a298eabc20e36c2d8f"
+  },
+  {
+    "path": "assets/definitivi/persuasion-contrast-original.png",
+    "bytes": 10432630,
+    "sha256": "2cae43360252f9145f0ffdfba2babbecc4f7f1a52630b922af6c4dd472e7504c"
+  },
+  {
+    "path": "assets/definitivi/persuasion-contrast-thumb.webp",
+    "bytes": 136744,
+    "sha256": "77a550d0d66033a92aa0af4f3ffca8050e73778b193581e7b507442ee026976e"
+  },
+  {
+    "path": "assets/definitivi/persuasion-liking-original.png",
+    "bytes": 12168607,
+    "sha256": "966a61b501cb9a5b599b526092d76fb065955cb1d0aa71b86362f4718531ee26"
+  },
+  {
+    "path": "assets/definitivi/persuasion-liking-thumb.webp",
+    "bytes": 149662,
+    "sha256": "c5f75fd46ad5984d1094a2c9a4d7caf322b74af7115fe509be786a2f6a929d64"
+  },
+  {
+    "path": "assets/definitivi/persuasion-mere-exposure-original.png",
+    "bytes": 11381143,
+    "sha256": "46a4dd4c2da5c34f8dbd55d88d89e9009e76c174bcba26445001eddbe6e2f244"
+  },
+  {
+    "path": "assets/definitivi/persuasion-mere-exposure-thumb.webp",
+    "bytes": 144144,
+    "sha256": "b231038ef5cef573d861a36826b39b83ae9f7a057e43ed3da31b954ed27b1c53"
+  },
+  {
+    "path": "assets/definitivi/persuasion-reciprocity-original.png",
+    "bytes": 13580189,
+    "sha256": "bcba6f42cd9ec8203e42360cb3769162f381dc5a61f83f3af4acea38df79a957"
+  },
+  {
+    "path": "assets/definitivi/persuasion-reciprocity-thumb.webp",
+    "bytes": 162136,
+    "sha256": "dcede1cd96668b60a70c1fe3120089d4a6949ec3e4420cd869a86ca4712aae5e"
+  },
+  {
+    "path": "assets/definitivi/persuasion-scarcity-original.png",
+    "bytes": 12734149,
+    "sha256": "b78f0db9b9c68538b7eb7a9f561c4b33f773fb5345c9bd33c1b34e19bf2a90a7"
+  },
+  {
+    "path": "assets/definitivi/persuasion-scarcity-thumb.webp",
+    "bytes": 149822,
+    "sha256": "56f8c978972caf5b8c14d58309f1f5c43d53872fff824bb8f800044608dd36ad"
+  },
+  {
+    "path": "assets/definitivi/persuasion-social-proof-original.png",
+    "bytes": 13321062,
+    "sha256": "4eb9710707be13584a03cd77a92b21bf021f0f084d7ddd6e66a7dd126d89262f"
+  },
+  {
+    "path": "assets/definitivi/persuasion-social-proof-thumb.webp",
+    "bytes": 155790,
+    "sha256": "7072f6027d017157d04f110b0e0e6d3dcdd3bb76b11a4c1f77de505758a7625e"
+  },
+  {
+    "path": "assets/definitivi/persuasion-unity-original.png",
+    "bytes": 11754089,
+    "sha256": "d76541fdc886c8166485f012c86616e64b9e844d6047bd2887fc49d5ad5b3543"
+  },
+  {
+    "path": "assets/definitivi/persuasion-unity-thumb.webp",
+    "bytes": 149950,
+    "sha256": "ecde739792b27de84d3ea347e1d1e02fc41be77bdd3a610a14571e92f15d9931"
+  },
+  {
+    "path": "assets/definitivi/planful-problem-solving-original.png",
+    "bytes": 526939,
+    "sha256": "9fbc1581b5a8237694322d8c1f9c3f8db569122be6d746caaac6e2b0129a8571"
+  },
+  {
+    "path": "assets/definitivi/planful-problem-solving-thumb.webp",
+    "bytes": 143548,
+    "sha256": "9647798bec3448088d80ac0f0d77383eef125daa5b5adf0e2b007654ad591ef7"
+  },
+  {
+    "path": "assets/definitivi/planning-fallacy-original.png",
+    "bytes": 403387,
+    "sha256": "bdc9e55dc3ab571d501c805f0b51975437cf639925598e3ad6fd8fc47c679bc4"
+  },
+  {
+    "path": "assets/definitivi/planning-fallacy-thumb.webp",
+    "bytes": 105856,
+    "sha256": "f23a2dea49a8f1c4fd73dd1ea4d5ee0118f7d7c9f194cc6c9dff74d0d484bb13"
+  },
+  {
+    "path": "assets/definitivi/polarization-original.png",
+    "bytes": 430525,
+    "sha256": "3b1d1d75e41f06d444c1289ec0781362a525de9468c2fee4c870c622cfae643d"
+  },
+  {
+    "path": "assets/definitivi/polarization-thumb.webp",
+    "bytes": 118968,
+    "sha256": "fc010e3d408cd7bc2349c881d74e4d61e7548fb848f61fd1bc3d906fba0995fd"
+  },
+  {
+    "path": "assets/definitivi/positive-reappraisal-original.png",
+    "bytes": 577969,
+    "sha256": "8ea27a3aecc7fd3d7dec1808b9f32b78c56b777b3bd1f34f4ba59e8746d8b633"
+  },
+  {
+    "path": "assets/definitivi/positive-reappraisal-thumb.webp",
+    "bytes": 151424,
+    "sha256": "c05bde753b691b6e41be82c4ece1d58fc4e9c3cc329c87dc14ce01a33b1b3788"
+  },
+  {
+    "path": "assets/definitivi/probability-neglect-original.png",
+    "bytes": 403337,
+    "sha256": "829440dc22c5f91f3c442447b25177fbfa17cb732595fb42e5bce61d5ca2848f"
+  },
+  {
+    "path": "assets/definitivi/probability-neglect-thumb.webp",
+    "bytes": 110714,
+    "sha256": "96ce5e975cd69efb11625129f3d5080e1c092a58768f12b15c76d29ca0d88f87"
+  },
+  {
+    "path": "assets/definitivi/problem-focused-coping-original.png",
+    "bytes": 634175,
+    "sha256": "ea5b9862a91a760df70238f232f1ed89620c3168cbdd04b512601063feccd720"
+  },
+  {
+    "path": "assets/definitivi/problem-focused-coping-thumb.webp",
+    "bytes": 165624,
+    "sha256": "63cc9cf59e8a247a358dbc9ef2716849838d657c0d98f483df20c7d941b60339"
+  },
+  {
+    "path": "assets/definitivi/prototype-original.png",
+    "bytes": 431458,
+    "sha256": "70c85b5c60b107479c4dc40bd7387beb5b15c2b77a1070fb74bb830ecabdc923"
+  },
+  {
+    "path": "assets/definitivi/prototype-thumb.webp",
+    "bytes": 118484,
+    "sha256": "159d6bef11dbc5aebea1430b39fdc66ca3247ac80dfb1d9ff3a1d16d3a11e8dc"
+  },
+  {
+    "path": "assets/definitivi/reactive-devaluation-original.png",
+    "bytes": 512711,
+    "sha256": "aa5c83ab79e1728235c357a405dd414281940a2f7614708b10a83697767d9ede"
+  },
+  {
+    "path": "assets/definitivi/reactive-devaluation-thumb.webp",
+    "bytes": 140946,
+    "sha256": "9d5c5c7faf180c810aff9add8ace9b8aa5cae0f944b31efa0572e67a768cd14a"
+  },
+  {
+    "path": "assets/definitivi/reality-of-reality-original.png",
+    "bytes": 11742819,
+    "sha256": "12fffaa7ee6ad5917c3158c65321db5eb3072d88d00063950e7203e8f059acdd"
+  },
+  {
+    "path": "assets/definitivi/reality-of-reality-thumb.webp",
+    "bytes": 150676,
+    "sha256": "d664dbf949c001ac3c42f32210ffd49ec57c983ad027184366cc3b0ae38bb9a0"
+  },
+  {
+    "path": "assets/definitivi/resilience-original.png",
+    "bytes": 11874176,
+    "sha256": "f5dce510f1e487f29d33aab2d18ed1aad48ec4ff0a2cd6f932bd9f7303824887"
+  },
+  {
+    "path": "assets/definitivi/resilience-thumb.webp",
+    "bytes": 152788,
+    "sha256": "0ab60c9c75f6b72c1b3d7da40da7cdc060389f528f7cec56f33b60c11da7b75e"
+  },
+  {
+    "path": "assets/definitivi/risk-compensation-original.png",
+    "bytes": 551387,
+    "sha256": "bbb372d796f17877a1cd3db1fdb558d6d26548d7a152fba341a09b7ba7296388"
+  },
+  {
+    "path": "assets/definitivi/risk-compensation-thumb.webp",
+    "bytes": 147388,
+    "sha256": "2505595db8715c7c17ec3f5a4afeae57495d9468cf2c361f23e16f69f60b4b0a"
+  },
+  {
+    "path": "assets/definitivi/salience-original.png",
+    "bytes": 385778,
+    "sha256": "cbf829a7d1f04327b378dcccf86f0fdfa4e49f7c6a7303f06132a8206013084e"
+  },
+  {
+    "path": "assets/definitivi/salience-thumb.webp",
+    "bytes": 105070,
+    "sha256": "5119815f899558f7f5a4e7a350beadb0567f04f3272acc948d349697dbc99722"
+  },
+  {
+    "path": "assets/definitivi/seeking-social-support-original.png",
+    "bytes": 564084,
+    "sha256": "396ee50026c91116d5d587b9ae6857afb1d17a1dba1017197214efa259b7e342"
+  },
+  {
+    "path": "assets/definitivi/seeking-social-support-thumb.webp",
+    "bytes": 149430,
+    "sha256": "d422e3b37d71991d80c059e45b5e3868ddce0a333204e4142e24bbd7f108f594"
+  },
+  {
+    "path": "assets/definitivi/self-serving-original.png",
+    "bytes": 481402,
+    "sha256": "5054b2578ca4ec0f981191d7e28a5b863b8259ea62a7202b5dcafe2e655bb0b8"
+  },
+  {
+    "path": "assets/definitivi/self-serving-thumb.webp",
+    "bytes": 133648,
+    "sha256": "94f1aac79b2af44595e457d0d67026dffe80587b0e498e958ce4d1e82c3db60b"
+  },
+  {
+    "path": "assets/definitivi/sour-grapes-original.png",
+    "bytes": 616915,
+    "sha256": "0ef6c2a6391152e3de8872a7e72be74b8d6e0171253493ae9a97be66f8d7abf6"
+  },
+  {
+    "path": "assets/definitivi/sour-grapes-thumb.webp",
+    "bytes": 158894,
+    "sha256": "b1be78113a29510cfe5ba2be5c8eeb8118da2943f3bba8b9c9df683c729993f7"
+  },
+  {
+    "path": "assets/definitivi/state-of-consciousness-original.png",
+    "bytes": 13098740,
+    "sha256": "b1f13cec3ab898f4363647f4c7f541a4fc8fe5596694883ee93af086a781a96a"
+  },
+  {
+    "path": "assets/definitivi/state-of-consciousness-thumb.webp",
+    "bytes": 155362,
+    "sha256": "54c4d29ece638f28a5ce555de58cdbb1345d03079e2e2b3dc93454e5f545663a"
+  },
+  {
+    "path": "assets/definitivi/status-quo-original.png",
+    "bytes": 570480,
+    "sha256": "e77ab1b14f48b56217f7f06bb16c9b134f6a552e76e1f361915e5a88db62712c"
+  },
+  {
+    "path": "assets/definitivi/status-quo-thumb.webp",
+    "bytes": 149236,
+    "sha256": "14a3d5732f29891f9419590e3e295e898d4b5f852a91f8d29a9c40bfa834cdd8"
+  },
+  {
+    "path": "assets/definitivi/strategic-double-bind-original.png",
+    "bytes": 11427419,
+    "sha256": "ffc7dc21272758f491352a3316bda2d5b42d1ff453e82cb0881f52cc9a3c01cc"
+  },
+  {
+    "path": "assets/definitivi/strategic-double-bind-thumb.webp",
+    "bytes": 145898,
+    "sha256": "8c57b24ed09eed392f4693a478b9eea95883af458a092f046ee7e7600a20b5c2"
+  },
+  {
+    "path": "assets/definitivi/strategic-feedback-original.png",
+    "bytes": 12091012,
+    "sha256": "866505726d367779df6b74dca57d7242b125bc6d8a8ef9f0bcb8261d31332531"
+  },
+  {
+    "path": "assets/definitivi/strategic-feedback-thumb.webp",
+    "bytes": 146552,
+    "sha256": "8ea74387cc40078474d802e57a034cd9bbf52805b5f0064f7763dacfa24808d2"
+  },
+  {
+    "path": "assets/definitivi/stress-management-original.png",
+    "bytes": 553014,
+    "sha256": "19b49f6802a05a5c49043920c7897f09a2d32262f20198535138f209dc7db9b3"
+  },
+  {
+    "path": "assets/definitivi/stress-management-thumb.webp",
+    "bytes": 144032,
+    "sha256": "fa2d8aec7ed4039fbb5622a31dac9ca52c46ca8dc62f463d92fe58f3eb8977d4"
+  },
+  {
+    "path": "assets/definitivi/sunk-cost-original.png",
+    "bytes": 489733,
+    "sha256": "f4e5d4364f7573dbe16870220eb934ec2c458406f212b53cfa6aa351ceb5e342"
+  },
+  {
+    "path": "assets/definitivi/sunk-cost-thumb.webp",
+    "bytes": 132976,
+    "sha256": "61aca66a0639d939dbf89f06df45de724d5d720ec6508df3bc731a3d2ba7c6c7"
+  },
+  {
+    "path": "assets/definitivi/survivorship-original.png",
+    "bytes": 573563,
+    "sha256": "da60c392716aabbace0f6cb57259220750feed8dca38abb16bcd29cb7960c4e0"
+  },
+  {
+    "path": "assets/definitivi/survivorship-thumb.webp",
+    "bytes": 150214,
+    "sha256": "595bbc4e0bcd252025acc07b073ef57222816e8de6eff1667eebf36a363e1f56"
+  },
+  {
+    "path": "assets/definitivi/tall-poppy-syndrome-original.png",
+    "bytes": 13033202,
+    "sha256": "ebed34f04f6954afb52b361a8856889b5c242787dd01316b84df9fc9966cf99c"
+  },
+  {
+    "path": "assets/definitivi/tall-poppy-syndrome-thumb.webp",
+    "bytes": 147756,
+    "sha256": "2a7ce26bcaf9ebe1c9695aa0fe7e6249db1492a00588232c967f67f125c317f6"
+  },
+  {
+    "path": "assets/definitivi/truth-bias-original.png",
+    "bytes": 431867,
+    "sha256": "4081cf061249d80352403e7ffcc2789e40a09bdc61b2ed5737b2c06418aaa8b8"
+  },
+  {
+    "path": "assets/definitivi/truth-bias-thumb.webp",
+    "bytes": 119508,
+    "sha256": "fe543de6e23cb767655685fe405be50cde8f2b4a71b9bfccd7cc7c639872e735"
+  },
+  {
+    "path": "assets/definitivi/twaddle-tendency-original.png",
+    "bytes": 416662,
+    "sha256": "f00cfb5c6d897a8dd3e3fe7962ac4a32f278889809501850d0eb5eb700ad543f"
+  },
+  {
+    "path": "assets/definitivi/twaddle-tendency-thumb.webp",
+    "bytes": 110852,
+    "sha256": "10a65e4e5cf7ac0b2bf7ed1ff079d558d607dc96b792300a8fd0bfebcc8fd1a8"
+  },
+  {
+    "path": "assets/definitivi/ulterior-motives-original.png",
+    "bytes": 511010,
+    "sha256": "e8de069407cef8f3590e5415cdf693a5c30579102ea0fdae0d793dee673b0652"
+  },
+  {
+    "path": "assets/definitivi/ulterior-motives-thumb.webp",
+    "bytes": 138314,
+    "sha256": "a6acd7458b5a1f08d33aa977ac9e313467321201803fc6d8f40e6f7d855e3e33"
+  },
+  {
+    "path": "assets/definitivi/uncertainty-intolerance-original.png",
+    "bytes": 500476,
+    "sha256": "065fdfd4156abc274ec55b52ca3121cb77f0362da6973655b3f5255d112c8db3"
+  },
+  {
+    "path": "assets/definitivi/uncertainty-intolerance-thumb.webp",
+    "bytes": 135352,
+    "sha256": "fbeadfa3fa5f8c098c31a0ad86c108ccc0a33230e256f15590107f32a76165d2"
+  },
+  {
+    "path": "assets/definitivi/unrealistic-optimism-original.png",
+    "bytes": 457102,
+    "sha256": "118de1007b0affd41a469806d1d7e0bab9ec662eb8dc6f3a1a403bb763c4d9ad"
+  },
+  {
+    "path": "assets/definitivi/unrealistic-optimism-thumb.webp",
+    "bytes": 126574,
+    "sha256": "b228ffe484bc7246919353f59ccbd4ff0cc63eb26fa53a9e36b4f1ee4c9c7abe"
+  },
+  {
+    "path": "assets/definitivi/wysiati-original.png",
+    "bytes": 425623,
+    "sha256": "68decbaa53fd2de97b9c0328de4144699c7f28632bea27de8aa4d31bdab75b46"
+  },
+  {
+    "path": "assets/definitivi/wysiati-thumb.webp",
+    "bytes": 113838,
+    "sha256": "278eb5ec5964a1bc8be47f28ad4ec4b46646cdc4c2fbe09f3dedb03384df6089"
+  },
+  {
+    "path": "assets/saggi/psiche-e-thanatos-anteprima.pdf",
+    "bytes": 594550,
+    "sha256": "cdac9f618a975373e57549a712164a4a3333662557ee345495a12dc85e10b7b5"
+  },
+  {
+    "path": "assets/saggi/psiche-e-thanatos-copertina.webp",
+    "bytes": 126818,
+    "sha256": "6fd14c3748a0f4b403c097158a5f8040d361f4bffbda9772d4dfcb6f1abd62c9"
+  },
+  {
+    "path": "atlante.html",
+    "bytes": 4842,
+    "sha256": "a45bd2a82c9ea626d202de42e4f6a22f49ce80888ff570be70610d12bd17bffa"
+  },
+  {
+    "path": "atlas-data.js",
+    "bytes": 317018,
+    "sha256": "e336b46ac6d36d211cc2c51c4f59c06a2455823b0c974168658ade7dbf8f338b"
+  },
+  {
+    "path": "atlas-engine.js",
+    "bytes": 1587,
+    "sha256": "6e484fdaa8a82c7260afb1480266e91c570d1cc44a00560024c060754ba96be9"
+  },
+  {
+    "path": "atlas.js",
+    "bytes": 15404,
+    "sha256": "dd31c5a74036a330776e54b0e180afc53040f5662bb1674b5f682a6fbb537bcd"
+  },
+  {
+    "path": "author.css",
+    "bytes": 12535,
+    "sha256": "fe93830a7a0437c0362536602391413ad43058abd5947fe3741e43ebaf762214"
+  },
+  {
+    "path": "author.js",
+    "bytes": 1771,
+    "sha256": "51bf710587ef96e57fc15da622b095e9539b75c3c04950cc835fb22f33eb737a"
+  },
+  {
+    "path": "autore.html",
+    "bytes": 12454,
+    "sha256": "c162aca11645a1b0cdef87a4429ea2959f568a0c57afd9275200556aa0fc61b2"
+  },
+  {
+    "path": "catalogue-meta.js",
+    "bytes": 4708,
+    "sha256": "113fc17a2e40d6e24a7830f9bcf2ba1bb27d76ddd487c7e2c5ff2a5e39d3ac80"
+  },
+  {
+    "path": "data.js",
+    "bytes": 353963,
+    "sha256": "931ce3d21187e0705a27f190833d67dfac88e4298c2fed8de9ecf72af4a7e6d4"
+  },
+  {
+    "path": "engine.js",
+    "bytes": 1421,
+    "sha256": "89689dfc96bedb27c261dfd1e9abedab01ac0748ed85bf61dcf2cb58204a6140"
+  },
+  {
+    "path": "index.html",
+    "bytes": 10103,
+    "sha256": "3c77efae558486bd475263736c85e01caf54bd7aee32116a7c5c72cb0f2d005f"
+  },
+  {
+    "path": "saggi.html",
+    "bytes": 7702,
+    "sha256": "7e3d0388c3af51fa34aec9d93d08173d38a47a7c515c77c721f842029d95694d"
+  },
+  {
+    "path": "site.css",
+    "bytes": 28973,
+    "sha256": "ae815187ab6ea9dbfc6580e39a4f627ac26a99ab82490f422f6a69fc78374da3"
+  },
+  {
+    "path": "site.js",
+    "bytes": 4435,
+    "sha256": "c032881499b4dc929edb70cf84815e5fada8e05516b23c48fbfd824c1982fcbd"
+  },
+  {
+    "path": "styles.css",
+    "bytes": 27207,
+    "sha256": "c62ec2dde73bc032fd97d8e1ac7e785c7c42cc37d1edb5906f07f030ef8acb09"
+  }
+]

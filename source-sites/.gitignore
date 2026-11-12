@@ -1,0 +1,3 @@
+# Transient partial media downloads left by repository checkout.
+site/assets/definitivi/.*
+scripts/__pycache__/

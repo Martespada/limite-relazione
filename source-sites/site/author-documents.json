@@ -1,0 +1,28 @@
+[
+  {
+    "id": "cultural-awareness-pdf",
+    "title": "Cultural Awareness: Comunicazione e PSYOPS",
+    "year": 2012,
+    "pages": 18,
+    "original": "assets/autore/articoli/cultural-awareness-comunicazione-psyops-2012.pdf",
+    "filename": "cultural-awareness-comunicazione-psyops-2012.pdf",
+    "cover": "assets/autore/articoli/cultural-awareness-cover.webp",
+    "width": 360,
+    "height": 509,
+    "size": 2719910,
+    "sha256": "7fd16f8e71501ba012016a8758d82f5b0a0f6605ad1e9da5f08a7475025d42b5"
+  },
+  {
+    "id": "aquila-omnia-pdf",
+    "title": "Aquila Omnia: Diario di Bordo dei Fucilieri dell’Aria",
+    "year": 2021,
+    "pages": 4,
+    "original": "assets/autore/articoli/aquila-omnia-diario-di-bordo-2021.pdf",
+    "filename": "aquila-omnia-diario-di-bordo-2021.pdf",
+    "cover": "assets/autore/articoli/aquila-omnia-cover.webp",
+    "width": 360,
+    "height": 488,
+    "size": 5301874,
+    "sha256": "45cdb68ba5a80046ebcaaab7f1f8fbf72ec7f5db2e788f44a9df82458760516e"
+  }
+]

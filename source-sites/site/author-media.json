@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ritratto",
+    "title": "Ritratto di Tommaso Corona",
+    "original": "assets/autore/ritratto-original.png",
+    "thumb": "assets/autore/ritratto-display.webp",
+    "animal": "Ritratto di Tommaso Corona",
+    "width": 1207,
+    "height": 1303,
+    "displayWidth": 900,
+    "displayHeight": 972
+  },
+  {
+    "id": "logo",
+    "title": "Logo di Tommaso Corona",
+    "original": "assets/autore/logo-original.png",
+    "thumb": "assets/autore/logo-display.webp",
+    "animal": "Logo di Tommaso Corona",
+    "width": 2048,
+    "height": 2048,
+    "displayWidth": 512,
+    "displayHeight": 512
+  },
+  {
+    "id": "universo-psiche-thanatos",
+    "title": "Universo Psiche & Thanatos",
+    "original": "assets/autore/universo-psiche-thanatos-original.png",
+    "thumb": "assets/autore/universo-psiche-thanatos-display.webp",
+    "animal": "Universo Psiche & Thanatos",
+    "width": 1152,
+    "height": 2048,
+    "displayWidth": 900,
+    "displayHeight": 1600
+  },
+  {
+    "id": "limite-relazione-cheatsheet",
+    "title": "Limite & Relazione · Parole chiave",
+    "original": "assets/autore/limite-relazione-cheatsheet-original.png",
+    "thumb": "assets/autore/limite-relazione-cheatsheet-display.webp",
+    "animal": "Limite & Relazione · Parole chiave",
+    "width": 1366,
+    "height": 2048,
+    "displayWidth": 1200,
+    "displayHeight": 1799
+  },
+  {
+    "id": "limit-model-sere",
+    "title": "L.I.M.I.T. Model in SERE",
+    "original": "assets/autore/limit-model-sere-original.png",
+    "thumb": "assets/autore/limit-model-sere-display.webp",
+    "animal": "L.I.M.I.T. Model in SERE",
+    "width": 1152,
+    "height": 2048,
+    "displayWidth": 900,
+    "displayHeight": 1600
+  }
+]

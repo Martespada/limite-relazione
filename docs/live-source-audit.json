@@ -1,0 +1,1516 @@
+{
+  "source_url": "https://atlante-bias-limite-relazione.tommasocorona.chatgpt.site",
+  "source_commit": "5c889ca3efbb6fbd4e5826765b55884ca8b3e550",
+  "version": 73,
+  "date": "2026-11-12",
+  "method": "267 media: live HTTP HEAD, SHA-256 and size headers; 10 embedded images: full byte hashes; 24 application files: full text comparison",
+  "checks": 301,
+  "result": "PASS",
+  "files": [
+    {
+      "path": "app.js",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "article.css",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "articoli.html",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "articoli/archetipi-e-individuazione.html",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "articoli/dal-what-if-al-what-is.html",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "articoli/l-ombra-e-la-voce.html",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "articoli/la-soglia-della-radicalizzazione.html",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "articoli/la-zebra-il-leone-e-lerba.html",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "articoli/lo-slogun-batte-largomento.html",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/articoli/archetipi-cover.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/articoli/archetipi-percorso.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/articoli/dal-what-if-al-what-is-cover.jpg",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/articoli/l-ombra-e-la-voce-cover.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/articoli/la-soglia-cover.jpg",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/articoli/la-zebra-cover.jpeg",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/articoli/slogun-cover.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/articoli/aquila-omnia-cover.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/articoli/aquila-omnia-diario-di-bordo-2021.pdf",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/articoli/cultural-awareness-comunicazione-psyops-2012.pdf",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/articoli/cultural-awareness-cover.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/limit-model-sere-display.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/limit-model-sere-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/limite-relazione-cheatsheet-display.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/limite-relazione-cheatsheet-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/logo-display.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/logo-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/ritratto-display.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/ritratto-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/universo-psiche-thanatos-display.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/autore/universo-psiche-thanatos-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/affect-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/affect-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/affinity-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/affinity-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ambiguity-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ambiguity-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/anchoring-mussel-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/anchoring-mussel-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/apophenia-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/apophenia-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/attentional-bias-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/attentional-bias-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/attribution-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/attribution-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/backfire-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/backfire-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/bandwagon-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/bandwagon-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/blind-spot-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/blind-spot-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/communication-axiom-1-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/communication-axiom-1-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/communication-axiom-2-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/communication-axiom-2-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/communication-axiom-3-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/communication-axiom-3-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/communication-axiom-4-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/communication-axiom-4-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/communication-axiom-5-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/communication-axiom-5-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/confirmation-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/confirmation-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/continuing-bonds-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/continuing-bonds-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/contrast-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/contrast-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/deindividuation-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/deindividuation-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/dissonance-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/dissonance-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/dodo-verdict-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/dodo-verdict-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/dunning-kruger-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/dunning-kruger-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-anger-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-anger-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-disgust-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-disgust-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-fear-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-fear-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-focused-coping-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-focused-coping-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-joy-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-joy-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-sadness-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-sadness-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-surprise-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotion-surprise-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotional-contagion-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/emotional-contagion-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/empathy-emotional-intelligence-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/empathy-emotional-intelligence-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/escape-avoidance-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/escape-avoidance-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ethnocentrism-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ethnocentrism-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/expectation-blindness-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/expectation-blindness-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/explanatory-depth-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/explanatory-depth-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/extrinsic-motivation-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/extrinsic-motivation-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/false-consensus-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/false-consensus-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/fawn-response-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/fawn-response-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/field-of-consciousness-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/field-of-consciousness-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/fight-response-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/fight-response-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/flight-response-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/flight-response-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/flop-faint-response-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/flop-faint-response-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/framing-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/framing-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/freeze-response-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/freeze-response-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/gamblers-fallacy-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/gamblers-fallacy-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/groupthink-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/groupthink-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/halo-cat-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/halo-cat-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/hindsight-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/hindsight-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/hostile-attribution-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/hostile-attribution-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/hyperbolic-discounting-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/hyperbolic-discounting-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ikea-effect-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ikea-effect-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/illusion-of-transparency-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/illusion-of-transparency-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/illusory-superiority-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/illusory-superiority-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/illusory-truth-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/illusory-truth-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/intersubjectivity-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/intersubjectivity-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/intrinsic-motivation-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/intrinsic-motivation-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/law-of-the-instrument-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/law-of-the-instrument-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/limit-identity-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/limit-identity-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/limit-inhibition-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/limit-inhibition-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/limit-load-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/limit-load-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/limit-mentalizing-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/limit-mentalizing-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/limit-model-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/limit-model-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/limit-tension-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/limit-tension-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/locus-of-control-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/locus-of-control-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/lollapalooza-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/lollapalooza-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/loss-aversion-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/loss-aversion-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/mental-social-representation-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/mental-social-representation-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/mindfulness-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/mindfulness-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/mood-congruent-memory-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/mood-congruent-memory-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/moral-disengagement-conduct-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/moral-disengagement-conduct-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/moral-disengagement-consequences-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/moral-disengagement-consequences-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/moral-disengagement-responsibility-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/moral-disengagement-responsibility-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/moral-disengagement-victim-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/moral-disengagement-victim-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/naive-realism-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/naive-realism-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/negativity-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/negativity-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/noise-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/noise-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/normalcy-bias-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/normalcy-bias-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/occasion-noise-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/occasion-noise-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ocean-agreeableness-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ocean-agreeableness-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ocean-big-five-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ocean-big-five-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ocean-conscientiousness-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ocean-conscientiousness-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ocean-extraversion-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ocean-extraversion-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ocean-neuroticism-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ocean-neuroticism-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ocean-openness-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ocean-openness-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ostrich-bias-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ostrich-bias-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/overprecision-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/overprecision-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/paradoxical-stratagem-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/paradoxical-stratagem-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/pareidolia-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/pareidolia-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/peacock-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/peacock-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-authority-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-authority-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-commitment-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-commitment-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-contrast-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-contrast-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-liking-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-liking-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-mere-exposure-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-mere-exposure-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-reciprocity-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-reciprocity-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-scarcity-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-scarcity-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-social-proof-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-social-proof-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-unity-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/persuasion-unity-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/planful-problem-solving-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/planful-problem-solving-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/planning-fallacy-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/planning-fallacy-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/polarization-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/polarization-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/positive-reappraisal-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/positive-reappraisal-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/probability-neglect-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/probability-neglect-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/problem-focused-coping-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/problem-focused-coping-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/prototype-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/prototype-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/reactive-devaluation-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/reactive-devaluation-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/reality-of-reality-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/reality-of-reality-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/resilience-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/resilience-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/risk-compensation-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/risk-compensation-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/salience-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/salience-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/seeking-social-support-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/seeking-social-support-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/self-serving-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/self-serving-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/sour-grapes-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/sour-grapes-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/state-of-consciousness-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/state-of-consciousness-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/status-quo-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/status-quo-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/strategic-double-bind-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/strategic-double-bind-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/strategic-feedback-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/strategic-feedback-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/stress-management-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/stress-management-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/sunk-cost-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/sunk-cost-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/survivorship-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/survivorship-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/tall-poppy-syndrome-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/tall-poppy-syndrome-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/truth-bias-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/truth-bias-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/twaddle-tendency-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/twaddle-tendency-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ulterior-motives-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/ulterior-motives-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/uncertainty-intolerance-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/uncertainty-intolerance-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/unrealistic-optimism-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/unrealistic-optimism-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/wysiati-original.png",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/definitivi/wysiati-thumb.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/saggi/psiche-e-thanatos-anteprima.pdf",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "assets/saggi/psiche-e-thanatos-copertina.webp",
+      "kind": "media",
+      "result": "PASS"
+    },
+    {
+      "path": "atlante.html",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "atlas-data.js",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "atlas-engine.js",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "atlas.js",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "author.css",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "author.js",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "autore.html",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "catalogue-meta.js",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "data.js",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "engine.js",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "index.html",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "saggi.html",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "site.css",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "site.js",
+      "kind": "text",
+      "result": "PASS"
+    },
+    {
+      "path": "styles.css",
+      "kind": "text",
+      "result": "PASS"
+    }
+  ]
+}

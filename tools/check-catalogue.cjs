@@ -25,7 +25,7 @@ const alpha=filter(posters,{...defaults,sort:'name'});
 check(alpha.every((p,i)=>!i||alpha[i-1].name.localeCompare(p.name,'it')<=0),'Alphabetical sorting');
 check(!posters.find(p=>p.id==='continuing-bonds').bookUrl,'Continuing bonds attribution unchanged');
 check(!posters.some(p=>['radical-constructivism','critical-constructivism','halo-ramirezi','sunk-cost-archive'].includes(p.id)),'Requested removals preserved');
-check(meta.articles.length===6&&meta.articles.every(a=>fs.existsSync(path.join(site,a.url))),'All articles');
+check(meta.articles.length===7&&meta.articles.every(a=>fs.existsSync(path.join(site,a.url))),'All articles');
 const source=fs.readFileSync(path.join(site,'site.js'),'utf8');
 for(const prefix of ['/','/limite-relazione/']){
  for(const [file,hash,destination] of [['','#bias=truth-bias','atlante.html'],['index.html','#tema=bias-cognitivi','atlante.html'],['autore.html','#saggi','saggi.html']]){

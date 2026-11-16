@@ -68,11 +68,17 @@ for p in site.rglob('*'):
     check(not re.search(r'https?://[^\s\"\x27<>]*chatgpt(?:\.site|\.com)',text),'Live platform dependency: '+str(p))
     check(not re.search(r'\b(?:fetch|XMLHttpRequest)\s*\(',text),'Unexpected API call: '+str(p))
     check('OAI-Sites-Authorization' not in text and 'ATLAS_MEDIA_MAINTENANCE_KEY' not in text,'Maintenance code in static site')
+updates=json.loads((ROOT/'docs/content-updates.json').read_text())
+approved_updates={}
+for update in updates.values():
+    approved_updates.update(update['files'])
+for name,digest in approved_updates.items():
+    check(hashlib.sha256((site/name).read_bytes()).hexdigest()==digest,'Updated content checksum: '+name)
 # Exact data and article copy: changes are restricted to path/privacy wording in two scripts.
 worker=(ROOT/'source-sites/worker/index.js').read_text()
 texts=json.loads(re.search(r'^const TEXT_ASSETS=(.*);$',worker,re.M).group(1))
 for name,asset in texts.items():
-    if name.startswith('anteprima/') or name in ('atlas.js','site.js'):continue
+    if name.startswith('anteprima/') or name in ('atlas.js','site.js') or name in approved_updates:continue
     check((site/name).read_text()==asset['body'],'Unexpected text change: '+name)
 check('L’accesso resta privato' not in (site/'atlas.js').read_text(),'Obsolete private-site notice')
 check('../${p.thumb}' not in (site/'atlas.js').read_text(),'Parent-relative dynamic image path')

@@ -105,9 +105,14 @@
     "sha256": "2fd0ad1a4763220b7a06d17cac2fbde1a56c755910d1c5f0f50183fa5cd44c6d"
   },
   {
+    "path": "articoli/psicologia-della-propaganda-visiva.html",
+    "bytes": 152853,
+    "sha256": "e91a2dd7851b3f4612585320209766b324ecca1e584802ea297556adeafbb401"
+  },
+  {
     "path": "articoli.html",
-    "bytes": 10046,
-    "sha256": "cab4780b985060735deb62c65c936e3ccd42d1521d4f1ac9ee0ff5fb03e08dab"
+    "bytes": 10688,
+    "sha256": "264363acef89584be249ac7e8d47f7f95365b2bcb106b1552a50c62b8b368f50"
   },
   {
     "path": "assets/articoli/archetipi-cover.png",
@@ -138,6 +143,146 @@
     "path": "assets/articoli/la-zebra-cover.jpeg",
     "bytes": 218176,
     "sha256": "82eaa10e17d332d20c8f528ab12586a9eca349180a25c681dc9810f49455fc5e"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/copertina.webp",
+    "bytes": 620100,
+    "sha256": "be8491b2caef519adac425c9b15cd3ced808dc209ed1d4ce101ecc8ba03d4b07"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-01.webp",
+    "bytes": 111886,
+    "sha256": "2f2fcb234bab5699a20e091742b5a49883ff1e3bcb9f0e8e6b0e8434da803522"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-02.webp",
+    "bytes": 120860,
+    "sha256": "fa79e004b0442b51d42934d51948a220524c7f5ae0a7e3bbecd762c4dabc021d"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-03.webp",
+    "bytes": 95608,
+    "sha256": "492d223ebd62df6aca30fde547ab69284de43642b67a34f3e51ddb4db2cc7072"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-04.webp",
+    "bytes": 72124,
+    "sha256": "05430c6a6652ab8dca484c5429e605ee24fdfca3b811c2426a79f66082869836"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-05.webp",
+    "bytes": 137710,
+    "sha256": "9536fcfc898a7e2c9058613c86efe16a7860dde10e49c350c2bec02c193875d2"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-06.webp",
+    "bytes": 116268,
+    "sha256": "3d93d65024dc48e0382696dbd2c1d4efb3d4a41c342772673ea48782f4e720e7"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-07.webp",
+    "bytes": 159028,
+    "sha256": "22b6d58cb46adaf66ee175ddfc1021962880a5deb472ba084d468b034ecd1c77"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-08.webp",
+    "bytes": 53634,
+    "sha256": "a237e050df91ededde9d9bf816a5eb59953d97be25c13a8071970383435d84d0"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-09.webp",
+    "bytes": 63818,
+    "sha256": "d0afae0aaabe0fdceec2cc401ff1383ff5fceb047be98028a60ae6667f082d49"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-10.webp",
+    "bytes": 222130,
+    "sha256": "84327dc7b2a596be1a01921a651a8ee33e12dca2c9d37d86a75517b466c6dfe2"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-11.webp",
+    "bytes": 91442,
+    "sha256": "e1145facc5f0a88f0ea4f66044750546c357456513d4bac6be05fd34cd634284"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-12.webp",
+    "bytes": 80498,
+    "sha256": "bdd561d5973029129c31777ae938fb40d884c0fe265474ccc7774098ae29269b"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-13.webp",
+    "bytes": 75758,
+    "sha256": "8fab529022ee5a8f1a67c5ea31ed3183b021b2adadb8d9f87f35fe3fe98fdeec"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-14.webp",
+    "bytes": 119738,
+    "sha256": "a429112d0dd8a1b4e9fe5db4ed21a9761f5f043d11c97bbd290cf48f04783a6f"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-15.webp",
+    "bytes": 107958,
+    "sha256": "d2d265f182f0c1c940e3dba44dd3b709f1c6398b577466e65759f1fd9f3cd31c"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-16.webp",
+    "bytes": 154852,
+    "sha256": "518f5e609eb903023aeee34d06491f7b319c1596a5965f446e7e175426960dda"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-17.webp",
+    "bytes": 145822,
+    "sha256": "ef48c18b6927b7e349439a525f885c5ce653517ef96673efe52779cf9830efe1"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-18.webp",
+    "bytes": 68130,
+    "sha256": "488a2f9a8483bcb08c213b11c89fcec3c88abde36183ba69119c83cb616150da"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-19.webp",
+    "bytes": 37794,
+    "sha256": "8377f317df9c50651a974cff8cdce9f34d0e0fd035325c1efb48527a1bf595bf"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-20.webp",
+    "bytes": 54342,
+    "sha256": "6925bc01ff18cb64ef9b94e82921be2082711d48b0e6a77457097f3cdfbc6665"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-21.webp",
+    "bytes": 149448,
+    "sha256": "45f813ea6e048353c857c90b19e86278688248a14ce744674a22f3b218ffee25"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-22.webp",
+    "bytes": 54784,
+    "sha256": "cbbb24f3a5a543732dc2a223df8734d4aa5899ad36dab18371e34c35245f6c47"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-23.webp",
+    "bytes": 183034,
+    "sha256": "ea1040f90ac0914c2e042e2bfc6c84ed7e1c2441ca606b3ee44023be2b6bd4e4"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-24.webp",
+    "bytes": 108108,
+    "sha256": "2dadc9f394ff11bd36314bfaf03cc0bce1b439645148922d79b7c4504fffb68c"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-25.webp",
+    "bytes": 145802,
+    "sha256": "d4f0621409bdb661eda65b054cb89bc9fb21afcde9898b72685f4be04afc478d"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-26.webp",
+    "bytes": 164732,
+    "sha256": "1988d51deac442bd433c70b8b4408a96ae72d0419edd0339ae0088aad74f00ac"
+  },
+  {
+    "path": "assets/articoli/propaganda-visiva/immagine-27.webp",
+    "bytes": 446588,
+    "sha256": "8691c4e4ea62ca5be8a39d216319bb2aaaccb61bab6d9e0f1372e88e95885f4d"
   },
   {
     "path": "assets/articoli/slogun-cover.webp",
@@ -1531,8 +1676,8 @@
   },
   {
     "path": "catalogue-meta.js",
-    "bytes": 4708,
-    "sha256": "113fc17a2e40d6e24a7830f9bcf2ba1bb27d76ddd487c7e2c5ff2a5e39d3ac80"
+    "bytes": 5012,
+    "sha256": "979bffc1a8dba92e238063ac7b5263d34599ecc56bb48b6e5050e4f2c40b9155"
   },
   {
     "path": "data.js",
@@ -1546,8 +1691,8 @@
   },
   {
     "path": "index.html",
-    "bytes": 10103,
-    "sha256": "3c77efae558486bd475263736c85e01caf54bd7aee32116a7c5c72cb0f2d005f"
+    "bytes": 10123,
+    "sha256": "c41faa9d61da90eee5e0c10bfd7832c15b21b238a8620984930c1dcfe0732caa"
   },
   {
     "path": "saggi.html",

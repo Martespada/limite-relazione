@@ -35,5 +35,14 @@
       "assets/articoli/propaganda-visiva/immagine-26.webp": "1988d51deac442bd433c70b8b4408a96ae72d0419edd0339ae0088aad74f00ac",
       "assets/articoli/propaganda-visiva/immagine-27.webp": "8691c4e4ea62ca5be8a39d216319bb2aaaccb61bab6d9e0f1372e88e95885f4d"
     }
+  },
+  "2026-11-18": {
+    "poster": "hebb-learning",
+    "section": "Psicologia Strategica",
+    "files": {
+      "index.html": "a8674487b99faf30a645119d638c4aa54b98e011a9d980c8dd3c763dc4d64a3a",
+      "atlas-data.js": "748517afa103dcf901ebea9b051ed2821e461d79f005d1869ba73cc4c7163b03",
+      "catalogue-meta.js": "0284c301c94f55d0c17c92664c2b93b9cf4ec8b7468b3ba6eea72ced7b926153"
+    }
   }
 }

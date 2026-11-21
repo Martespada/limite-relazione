@@ -80,6 +80,11 @@
     "sha256": "fb69dc57e0c93d228084b6038905e16328ce4acc2c3ffd52d369134ca64a33b4"
   },
   {
+    "path": "articoli/chop-suey.html",
+    "bytes": 36566,
+    "sha256": "9e93f5bfe86b6b6091cd04319752ad079699bfc5d27b1e8403b4017a48784557"
+  },
+  {
     "path": "articoli/dal-what-if-al-what-is.html",
     "bytes": 35588,
     "sha256": "62fe45ae8b3a3d7e2be12dbfdd6fd0c1483260b4e0625b7c1ef647d108dfc37c"
@@ -111,8 +116,8 @@
   },
   {
     "path": "articoli.html",
-    "bytes": 10688,
-    "sha256": "264363acef89584be249ac7e8d47f7f95365b2bcb106b1552a50c62b8b368f50"
+    "bytes": 11564,
+    "sha256": "72e54a9e941cf8760eed692645a21ae3b78ccf8d400cd1c160aa5b65d5d91337"
   },
   {
     "path": "assets/articoli/archetipi-cover.png",
@@ -123,6 +128,11 @@
     "path": "assets/articoli/archetipi-percorso.png",
     "bytes": 2773592,
     "sha256": "2bf56bceac46dc7ac553c24e5bc08f6354a6c31855d469dbb63f085299c46e98"
+  },
+  {
+    "path": "assets/articoli/chop-suey.webp",
+    "bytes": 122398,
+    "sha256": "662cc9c9ed41370a2392070db3fa0b00b522a1eb72709010923cbf35538dea30"
   },
   {
     "path": "assets/articoli/dal-what-if-al-what-is-cover.jpg",
@@ -828,6 +838,16 @@
     "path": "assets/definitivi/halo-cat-thumb.webp",
     "bytes": 122146,
     "sha256": "910d2d8fb2b7ada3bbc02c7b66e7cecb6f33b5622815434c3f7ce9e515f7c95c"
+  },
+  {
+    "path": "assets/definitivi/hebb-learning-original.webp",
+    "bytes": 1762616,
+    "sha256": "9f1334f60e23781b1abaed93132bdc2904cc57ccd97b0db193f5625716723834"
+  },
+  {
+    "path": "assets/definitivi/hebb-learning-thumb.webp",
+    "bytes": 167032,
+    "sha256": "94c6ba285893f0cf1867225aa093c25b1ece7c4d835d2ed75f4054a1f7ff1b91"
   },
   {
     "path": "assets/definitivi/hindsight-original.png",
@@ -1646,8 +1666,8 @@
   },
   {
     "path": "atlas-data.js",
-    "bytes": 317018,
-    "sha256": "e336b46ac6d36d211cc2c51c4f59c06a2455823b0c974168658ade7dbf8f338b"
+    "bytes": 320339,
+    "sha256": "748517afa103dcf901ebea9b051ed2821e461d79f005d1869ba73cc4c7163b03"
   },
   {
     "path": "atlas-engine.js",
@@ -1676,8 +1696,8 @@
   },
   {
     "path": "catalogue-meta.js",
-    "bytes": 5012,
-    "sha256": "979bffc1a8dba92e238063ac7b5263d34599ecc56bb48b6e5050e4f2c40b9155"
+    "bytes": 5299,
+    "sha256": "c91cb51b07802c067eccf66fa4f18b55c38299590b62ce924275b1f703f5ba93"
   },
   {
     "path": "data.js",
@@ -1691,8 +1711,8 @@
   },
   {
     "path": "index.html",
-    "bytes": 10123,
-    "sha256": "c41faa9d61da90eee5e0c10bfd7832c15b21b238a8620984930c1dcfe0732caa"
+    "bytes": 10063,
+    "sha256": "ea779b66fd3dc1ed06a92e251620db7158fd736ac7a7431ff54c316437a1b29d"
   },
   {
     "path": "saggi.html",

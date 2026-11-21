@@ -44,5 +44,15 @@
       "atlas-data.js": "748517afa103dcf901ebea9b051ed2821e461d79f005d1869ba73cc4c7163b03",
       "catalogue-meta.js": "0284c301c94f55d0c17c92664c2b93b9cf4ec8b7468b3ba6eea72ced7b926153"
     }
+  },
+  "2026-11-21": {
+    "article": "chop-suey",
+    "files": {
+      "index.html": "ea779b66fd3dc1ed06a92e251620db7158fd736ac7a7431ff54c316437a1b29d",
+      "articoli.html": "72e54a9e941cf8760eed692645a21ae3b78ccf8d400cd1c160aa5b65d5d91337",
+      "catalogue-meta.js": "c91cb51b07802c067eccf66fa4f18b55c38299590b62ce924275b1f703f5ba93",
+      "articoli/chop-suey.html": "9e93f5bfe86b6b6091cd04319752ad079699bfc5d27b1e8403b4017a48784557",
+      "assets/articoli/chop-suey.webp": "662cc9c9ed41370a2392070db3fa0b00b522a1eb72709010923cbf35538dea30"
+    }
   }
 }

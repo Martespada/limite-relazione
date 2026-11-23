@@ -6,8 +6,11 @@ const posters=JSON.parse(JSON.stringify(context.window.ATLAS_PREVIEW_POSTERS));
 const meta=JSON.parse(JSON.stringify(context.window.ATLAS_PREVIEW_META));
 const {defaults,filter,related,normalize}=require(path.join(site,'atlas-engine.js'));
 let checks=0;const check=(value,message)=>{assert(value,message);checks++};
-check(posters.length===128&&new Set(posters.map(p=>p.id)).size===128,'Poster completeness');
+check(posters.length===129&&new Set(posters.map(p=>p.id)).size===posters.length,'Poster completeness');
 check(posters.some(p=>p.id==='hebb-learning'&&p.section==='Psicologia Strategica'),'Hebb in Psicologia Strategica');
+const painPoster=posters.find(p=>p.id==='gestione-del-dolore');
+check(painPoster?.section==='Psicologia Strategica'&&painPoster.animal==='Elefante','Gestione del dolore in Psicologia Strategica');
+check(filter(posters,{...defaults,section:painPoster.section,animal:'Elefante',author:'Giorgio Nardone',q:'perle'}).includes(painPoster),'Find Gestione del dolore by its metaphor and reference');
 check(meta.themes.length===7&&meta.themes[0].slug==='limit-model','Seven sections; LIMIT first');
 for(const theme of meta.themes)check(filter(posters,{...defaults,section:theme.title}).length===theme.count,theme.title);
 for(const p of posters){

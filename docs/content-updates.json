@@ -54,5 +54,17 @@
       "articoli/chop-suey.html": "9e93f5bfe86b6b6091cd04319752ad079699bfc5d27b1e8403b4017a48784557",
       "assets/articoli/chop-suey.webp": "662cc9c9ed41370a2392070db3fa0b00b522a1eb72709010923cbf35538dea30"
     }
+  },
+  "2026-11-23": {
+    "poster": "gestione-del-dolore",
+    "section": "Psicologia Strategica",
+    "files": {
+      "index.html": "40ebfa46a3d9e2128169a8fe0e6c16e02f89b5f958cdc0c4974fb3a9e7ce4662",
+      "atlante.html": "cd2dd53c3523c23b0ba4eebbfdde7416dc66861001e75f0d630262edd4eba237",
+      "atlas-data.js": "2fc3f47f7ea8f308884d97b630114082015e9de3d26e953e51bf351b5eb61f63",
+      "catalogue-meta.js": "f59b59c4f51f67a458a8c34e8fa0c7b0527eab715e0003f101d9365e4ceb9118",
+      "assets/definitivi/gestione-del-dolore-original.png": "54c6a121fdbe063e2a9f027dd59d2348eb5b568e0bd3f0eb50bbcac9a359f305",
+      "assets/definitivi/gestione-del-dolore-thumb.webp": "1a1755e50548a4246891aab9bb74169149b70bd0eec64e4d7bca8b217b828e1a"
+    }
   }
 }

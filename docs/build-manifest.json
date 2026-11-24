@@ -550,6 +550,16 @@
     "sha256": "5cf3731e10ac62beb2f0df9bdddd8a96cd0f0d51cfdcd431c606d2afd4c64b48"
   },
   {
+    "path": "assets/definitivi/definizione-dell-obiettivo-original.png",
+    "bytes": 12313887,
+    "sha256": "7e0d81a4135d6a62f2052b3afa104578f3369e428fbf03d5a7d5a333e2883ec0"
+  },
+  {
+    "path": "assets/definitivi/definizione-dell-obiettivo-thumb.webp",
+    "bytes": 263864,
+    "sha256": "d30ccddf4ee178575f3fa01f5640c43767720b6b3b5d86dfecabc4c2b2f6c21b"
+  },
+  {
     "path": "assets/definitivi/deindividuation-original.png",
     "bytes": 11865371,
     "sha256": "dcd885994ea4f8f9a8c5238e6480ef3944af3ccf64310bf7027332507417ffec"
@@ -1600,6 +1610,16 @@
     "sha256": "2a7ce26bcaf9ebe1c9695aa0fe7e6249db1492a00588232c967f67f125c317f6"
   },
   {
+    "path": "assets/definitivi/tentate-soluzioni-disfunzionali-original.png",
+    "bytes": 12547750,
+    "sha256": "62779891cd0bc44c327a3f1d5b55bd64c0bfd11164f2908516af97bcbe446c8a"
+  },
+  {
+    "path": "assets/definitivi/tentate-soluzioni-disfunzionali-thumb.webp",
+    "bytes": 301340,
+    "sha256": "bcd171487cd484e6c53760f9dd8015d58f3bd40050e185a7cd694830b04ad399"
+  },
+  {
     "path": "assets/definitivi/truth-bias-original.png",
     "bytes": 431867,
     "sha256": "4081cf061249d80352403e7ffcc2789e40a09bdc61b2ed5737b2c06418aaa8b8"
@@ -1672,12 +1692,12 @@
   {
     "path": "atlante.html",
     "bytes": 4842,
-    "sha256": "cd2dd53c3523c23b0ba4eebbfdde7416dc66861001e75f0d630262edd4eba237"
+    "sha256": "1ec7c390ca6f700d941f22bce18e2cdf033ec29192773c07663ee22edaf5db84"
   },
   {
     "path": "atlas-data.js",
-    "bytes": 323218,
-    "sha256": "2fc3f47f7ea8f308884d97b630114082015e9de3d26e953e51bf351b5eb61f63"
+    "bytes": 329461,
+    "sha256": "14f0d1e389d5160d209213fb232e7c6a4f78eff72b9e947938f2dd87a5c82adb"
   },
   {
     "path": "atlas-engine.js",
@@ -1707,7 +1727,7 @@
   {
     "path": "catalogue-meta.js",
     "bytes": 5300,
-    "sha256": "f59b59c4f51f67a458a8c34e8fa0c7b0527eab715e0003f101d9365e4ceb9118"
+    "sha256": "895677da1b549c641311fef28a07dcbd854a6dde9a25bf3b8724d3001060ede9"
   },
   {
     "path": "data.js",
@@ -1722,7 +1742,7 @@
   {
     "path": "index.html",
     "bytes": 10064,
-    "sha256": "40ebfa46a3d9e2128169a8fe0e6c16e02f89b5f958cdc0c4974fb3a9e7ce4662"
+    "sha256": "868533f69f0842808bea38e0d85304d5df1f9c1c243ee95167ecc025c94508d6"
   },
   {
     "path": "saggi.html",

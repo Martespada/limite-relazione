@@ -1692,12 +1692,12 @@
   {
     "path": "atlante.html",
     "bytes": 4872,
-    "sha256": "307e69b46bf06b7a13d6165fdf1e261f6fe4b15a657ac3ad58891bf69576cfd4"
+    "sha256": "4d8d252145378826c5fb694ceac6aa156a395cdcf7eda237ef234227df58990c"
   },
   {
     "path": "atlas-data.js",
-    "bytes": 329461,
-    "sha256": "14f0d1e389d5160d209213fb232e7c6a4f78eff72b9e947938f2dd87a5c82adb"
+    "bytes": 329523,
+    "sha256": "565c33ca73f2b811aef4f698d580caa5f00aca115379e1937f19ba8aa313d3dc"
   },
   {
     "path": "atlas-engine.js",

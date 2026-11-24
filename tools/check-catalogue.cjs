@@ -11,12 +11,12 @@ check(posters.some(p=>p.id==='hebb-learning'&&p.section==='Psicologia Strategica
 const painPoster=posters.find(p=>p.id==='gestione-del-dolore');
 check(painPoster?.section==='Psicologia Strategica'&&painPoster.animal==='Elefante','Gestione del dolore in Psicologia Strategica');
 check(filter(posters,{...defaults,section:painPoster.section,animal:'Elefante',author:'Giorgio Nardone',q:'perle'}).includes(painPoster),'Find Gestione del dolore by its metaphor and reference');
-for(const [id,animal,word] of [
- ['definizione-dell-obiettivo','Volpe','porto'],
- ['tentate-soluzioni-disfunzionali','Castoro','ponte']
+for(const [id,animal,word,author,title] of [
+ ['definizione-dell-obiettivo','Volpe','porto','Giorgio Nardone','Problem solving strategico da tasca'],
+ ['tentate-soluzioni-disfunzionali','Castoro','ponte','Claudette Portelli','Cambiare per conoscere']
 ]){
- const matches=filter(posters,{...defaults,section:'Psicologia Strategica',animal,author:'Giorgio Nardone',q:word});
- check(matches.some(p=>p.id===id&&p.references.some(r=>r.label.includes('Problem solving strategico da tasca'))),'Poster strategico e riferimento '+id);
+ const matches=filter(posters,{...defaults,section:'Psicologia Strategica',animal,author,q:word});
+ check(matches.some(p=>p.id===id&&p.authors.includes('Giorgio Nardone')&&p.references.some(r=>r.label.includes(title))),'Poster strategico e riferimento '+id);
 }
 check(meta.themes.length===7&&meta.themes[0].slug==='limit-model','Seven sections; LIMIT first');
 for(const theme of meta.themes)check(filter(posters,{...defaults,section:theme.title}).length===theme.count,theme.title);
